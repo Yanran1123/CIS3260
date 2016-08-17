@@ -8,7 +8,7 @@
 + Instructor: [Zhitao Yin](http://zhitaoyin.com)
 + Email: zyin3@gsu.edu
 + Office: Room 428, 4th Floor, J. Mack Robinson College of Business, [Map]()
-+ Office Hours: [Detailed Schedule]()
++ Office Hours: [Detailed Schedule](https://github.com/zhitaoyin/CIS3260/blob/master/Doc/Office%20Hour%20Schedule.md)
 
 ### Objectives
 
