@@ -20,6 +20,8 @@
  + **Application**: .
  + **Experience**: .
 
+<img src="Pic/HowToLearn.PNG" alt="howtolearn" style="width: 1px;"/>
+
 ### Schedule
 | Session | Date  | Topic                         |Material| Assignment                             | Project |
 |:-------:|:-----:| :----------------------------:|:-:|:--------------------------------------:|:-------:|
