@@ -1,4 +1,4 @@
-##CIS 3260: Introduction to Programming
+##CIS 3260 Session 009: Introduction to Programming
 
 **This syllabus provides a general guideline for the conduct of this course. However, deviations will be necessary. It is the student's reponsibility to check the syllabus regularly.**
 
