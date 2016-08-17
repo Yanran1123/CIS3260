@@ -1,4 +1,6 @@
-**CIS 3260: Introduction to Programming**
+##CIS 3260: Introduction to Programming
+
+**This syllabus provides a general guideline for the conduct of this course. However, deviations will be necessary. It is the student's reponsibility to check the syllabus regularly.**
 
 
 + Location: Room 100-S, J. Mack Robinson College of Business, [Map](http://robinson.gsu.edu/about/facilities/)
