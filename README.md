@@ -18,6 +18,19 @@
 
 <img src="Pic/ObjectiveContent.PNG" alt="howtolearn" style="width: 1px;"/>
 
+### Paths to Achieve The Objectives
+
+ + **Lecture**:
+ + **Lab Session**: 
+ + **Assignment**:
+ + **Project**:
+ + **Midterm Exam**:
+ + **Final Exam**:
+ + **Office Hour**:
+ + **"What you can do with programming skills" Video Series**:
+
+
+
 ### Schedule
 | Session | Date  | Topic                         |Material| Assignment                             | Project |
 |:-------:|:-----:| :----------------------------:|:-:|:--------------------------------------:|:-------:|
