@@ -3,12 +3,12 @@
 **This syllabus provides a general guideline for the conduct of this course. However, deviations will be necessary. It is students' reponsibility to check the syllabus regularly.**
 
 ### Logistics
-+ Location: Room 100-S, J. Mack Robinson College of Business, [Map](https://github.com/zhitaoyin/CIS3260/blob/master/Pic/ClassroomLocation.PNG)
-+ Time: 4:30pm - 7:00pm, Monday
-+ Instructor: [Zhitao Yin](http://zhitaoyin.com)
-+ Email: zyin3@gsu.edu
-+ Office: Room 428, 4th Floor, J. Mack Robinson College of Business, [Map](https://github.com/zhitaoyin/CIS3260/blob/master/Pic/OfficeLocation.PNG)
-+ Office Hours: [Detailed Schedule](https://github.com/zhitaoyin/CIS3260/blob/master/Doc/Office%20Hour%20Schedule.md)
++ **Location**: Room 100-S, J. Mack Robinson College of Business, [Map](https://github.com/zhitaoyin/CIS3260/blob/master/Pic/ClassroomLocation.PNG)
++ **Time**: 4:30pm - 7:00pm, Monday
++ **Instructor**: [Zhitao Yin](http://zhitaoyin.com)
++ *Email**: zyin3@gsu.edu
++ **Office**: Room 428, 4th Floor, J. Mack Robinson College of Business, [Map](https://github.com/zhitaoyin/CIS3260/blob/master/Pic/OfficeLocation.PNG)
++ **Office Hour**: [Detailed Schedule](https://github.com/zhitaoyin/CIS3260/blob/master/Doc/Office%20Hour%20Schedule.md)
 
 ### Objectives - Change Your Way of Thinking and Seeing The World
 
