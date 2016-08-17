@@ -12,7 +12,7 @@
 
 ### Content
 
-<img src="Pic/Content.PNG" alt="content" style="width: 10px;"/>
+<img src="Pic/Content.PNG" alt="content" style="width: 1px;"/>
 
 ### Objectives
 
