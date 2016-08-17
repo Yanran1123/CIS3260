@@ -10,7 +10,7 @@
 + Office: Room 428, 4th Floor, J. Mack Robinson College of Business, [Map](https://github.com/zhitaoyin/CIS3260/blob/master/Pic/OfficeLocation.PNG)
 + Office Hours: [Detailed Schedule](https://github.com/zhitaoyin/CIS3260/blob/master/Doc/Office%20Hour%20Schedule.md)
 
-### Objectives - Change Your Way of Thinking
+### Objectives - Change Your Way of Thinking and Seeing The World
 
  + **Concept**: Introduce the basic programming knowledge (i.e., elementary programming ,selections, and loops) as well as somewaht intermediate programming knowledg (i.e., methods, arrays, and objects & classes).
  + **Application**: Apply these concepts to create, debug, execute, and test well-designed and readable applications in Java.
