@@ -31,7 +31,7 @@
 | 8       | 10.24 | Methods                       ||                                        | Project Part 1 out. Due 10.29 at 11:55pm  |
 | 9       | 10.31 | Single Dimentional Arrays     || Assignment 8 out. Due 11.05 at 11:55pm |  |
 | 10      | 11.07 | Single Dimentional Arrays     ||                                        | Project Part 2 out. Due 11.12 at 11:55pm |
-| 11      | 11.14 | Multidimentionsional Arrays   ||                                       | Project Part 3 out. Due 11.19 at 11:55pm |
+| 11      | 11.14 | Multidimentionsional Arrays   ||                                        | Project Part 3 out. Due 11.19 at 11:55pm |
 |         | 11.21 | Thanksgiving Break, No Class  ||                                        |  |
 | 12      | 11.28 | Objects & Classes and Wrap-up ||                                        |  |
 |         | 12.05 | Final Exam                    ||                                        |  |
