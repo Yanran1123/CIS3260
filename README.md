@@ -10,17 +10,13 @@
 + Office: Room 428, 4th Floor, J. Mack Robinson College of Business, [Map](https://github.com/zhitaoyin/CIS3260/blob/master/Pic/OfficeLocation.PNG)
 + Office Hours: [Detailed Schedule](https://github.com/zhitaoyin/CIS3260/blob/master/Doc/Office%20Hour%20Schedule.md)
 
-### Content
-
-<img src="Pic/Content.PNG" alt="content" style="width: 1px;"/>
-
 ### Objectives
 
  + **Concept**: .
  + **Application**: .
  + **Experience**: .
 
-<img src="Pic/HowToLearn.PNG" alt="howtolearn" style="width: 1px;"/>
+<img src="Pic/ObjectiveContent.PNG" alt="howtolearn" style="width: 1px;"/>
 
 ### Schedule
 | Session | Date  | Topic                         |Material| Assignment                             | Project |
