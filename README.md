@@ -36,6 +36,9 @@
 ### 4. Grading Policy
 
 ### 5. Schedule
+
+ + Click the hyperlink of each topic to see its corresponding materials.
+ 
 | Session | Date  | Topic                         | Assignment                             | Project |
 |:-------:|:-----:| :----------------------------:|:--------------------------------------:|:-------:|
 | 1       | 08.22 | Introduction                  | Assignment 1 out. Due 08.27 at 11:55pm |  |  
