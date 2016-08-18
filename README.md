@@ -38,6 +38,8 @@
 ### 5. Schedule
 
  + Click the hyperlink of each topic to see its corresponding materials.
+ + Click the hyperlink of each assignment to see its corresponding materials.
+ + Click the hyperlink of each project to see its corresponding materials.
  
 | Session | Date  | Topic                         | Assignment                             | Project |
 |:-------:|:-----:| :----------------------------:|:--------------------------------------:|:-------:|
