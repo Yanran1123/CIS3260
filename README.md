@@ -18,7 +18,7 @@
 
 <img src="Pic/ObjectiveContent.PNG" alt="howtolearn" style="width: 1px;"/>
 
-### Paths to Achieve The Learning Objectives
+### **Paths to Achieve The Learning Objectives**
 
 <img src="Pic/Paths.PNG" alt="paths" style="width: 1px;"/>
  + **Lecture**:
