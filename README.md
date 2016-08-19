@@ -21,17 +21,18 @@
 ### 3. Paths to Achieve The Learning Objectives
 
 <img src="Pic/Paths.PNG" alt="paths" style="width: 1px;"/>
- + **Learn**
-  + **Lecture**:
-  + **Office Hour**:
-  + **"What you can do with programming skills" Video Series**:
- + **Practice**
-  + **Lab Session**: 
-  + **Assignment**:
-  + **Project**:
- + **Test**
-  + **Midterm Exam**:
-  + **Final Exam**:
+ **Learn**
+ + **Lecture**: 
+  +  
+ + **Office Hour**:
+ + **"What you can do with programming skills" Video Series**:
+ **Practice**
+ + **Lab Session**: 
+ + **Assignment**:
+ + **Project**:
+ **Test**
+ + **Midterm Exam**:
+ + **Final Exam**:
 
 ### 4. Grading Policy
 
@@ -41,7 +42,7 @@
  + Click the hyperlink of each assignment to see its corresponding materials.
  + Click the hyperlink of each project to see its corresponding materials.
  
-| Session | Date  | Topic                         | Assignment                             | Project |
+| Lecture | Date  | Topic                         | Assignment                             | Project |
 |:-------:|:-----:| :----------------------------:|:--------------------------------------:|:-------:|
 | 1       | 08.22 | Introduction                  | Assignment 1 out. Due 08.27 at 11:55pm |  |  
 | 2       | 08.29 | Elementary Programming        | Assignment 2 out. Due 09.03 at 11:55pm |  |
