@@ -37,7 +37,7 @@
   + 
  + **Online Learning Resource**: 
   + [edX](https://www.edx.org/) and [Coursera](https://www.coursera.org/), offer free online courses from the world's best universities including MIT, Harvard, Berkeley, UT and others. *(Type keyword "java" to search free courses.)*
-  + [Youtube](https://www.youtube.com), a video platform. *(Type keywords to search video tutorials. For example, how to install Java and set up (Eclipse)[https://www.eclipse.org/downloads/eclipse-packages/] for [Java](https://java.com/en/) on your computer)*
+  + [Youtube](https://www.youtube.com), a video platform. *(Type keywords to search video tutorials. For example, how to install Java and set up [Eclipse](https://www.eclipse.org/downloads/eclipse-packages/) for [Java](https://java.com/en/) on your computer)*
  
 **Practice**
 
