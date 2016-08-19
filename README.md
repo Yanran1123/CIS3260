@@ -29,7 +29,7 @@
  
  + **Lecture**: 
   + Each lecture will introduce the ***core concepts*** in one topic and may include a demostration of how to ***apply*** the concepts to create, debug, execute, and test well-designed and readable applications in Java.
-  + As the lecture is the main opportunity to learn, each student is expected to attend each lecture and activly interact with the instructor and fellow students during class discussion. Thus, ***attendence and interaction will be graded*** (See 4. Grading Policy for details.)
+  + As the lecture is the main opportunity to learn, each student is expected to attend each lecture and activly interact with the instructor and fellow classmates during class discussion. Thus, ***attendence and interaction will be graded*** (See 4. Grading Policy for details.)
   + ***Lecture Slides*** will be available after each lecture on this website.
  + **Office Hour**: 
   + Office hour visit is ***highly recommended*** for the students who want to ***discuss concepts*** as these thoguhts are more difficult to grasp and require more information, discussion and time. Students may want to communicate with the instructor via email to ask questions regarding course logistics. 
@@ -52,9 +52,14 @@
   + Lab session is ***highly recommended*** as it provides opportunities to ***digest and practice*** what the instructor teach in the lecture.
   + Time: Wednesday 2:30 - 4:00 PM and Friday 1:00 - 2:30 PM
   + Location: Room 100-S, J. Mack Robinson College of Business, [Map](https://github.com/zhitaoyin/CIS3260/blob/master/Pic/ClassroomLocation.PNG)
- + **Assignment**:
- + **Project**:
  
+ + **Assignment**:
+  + Assignment is designed to (1) reinforce stduents' understanding of the key concepts of programming, and (2) develop students' capabilities to correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java.
+  + All assignments will be posted on this website (see 5. Schedule for details).
+  + It is students' responsibility to read and stick to the [assignment policy](Doc/AssignmentPolicy.md)
+
+ + **Project**:
+ Experience: Creatively use programming thinking to identify a problem, break it into pieces, and write code to solve it. 
 **Test**
 
  + **Midterm Exam**:
