@@ -36,7 +36,7 @@
   + [Office hour schedule](Doc/Office%20Hour%20Schedule.md) offers a general guideline for each office hour session. Students are welcome to ask other questions regarding the content of this course as well.
  + **Textbook**:
   +  Y. Daniel Liang，Introduction to Java programming, Comprehensive Version, 10th Edition [(Hardcopy Link on  Amazon.com)](https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312/ref=sr_1_2?ie=UTF8&qid=1471567611&sr=8-2&keywords=Y.+Daniel+Liang%EF%BC%8CIntroduction+to+Java+programming)
-  + Most content of the lecture will be based on the textbook. Thus, it is a good referece for students to prepare and review the class.
+  + Most content of the lecture will be based on the textbook. Thus, it is a good ***referece*** for students to ***prepare*** and ***review*** the class.
  + **See The Forest beyond The Trees**
   + 
  + **Online Learning Resource**: 
