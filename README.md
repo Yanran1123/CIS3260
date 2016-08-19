@@ -29,7 +29,7 @@
  
  + **Lecture**: 
   + Each lecture will introduce the ***core concepts*** in one topic and may include a demostration of how to ***apply*** the concepts to create, debug, execute, and test well-designed and readable applications in Java.
-  + As the lecture is the main opportunity to learn, each student is expected to attend each lecture and activly interact with the instructor and fellow classmates during class discussion. Thus, ***attendence and interaction will be graded*** (See **4. Grading Policy** for details.)
+  + As the lecture is the main opportunity to learn, each student is expected to attend each lecture and activly interact with the instructor and fellow classmates during class discussion. Thus, ***attendence and interaction will be graded*** (see **4. Grading Policy** for details).
   + ***Lecture Slides*** will be available after each lecture on this website.
  + **Office Hour**: 
   + Office hour visit is ***highly recommended*** for the students who want to ***discuss concepts*** as these thoguhts are more difficult to grasp and require more information, discussion and time. Students may want to communicate with the instructor via email to ask questions regarding course logistics. 
@@ -54,9 +54,9 @@
   + Location: Room 100-S, J. Mack Robinson College of Business, [Map](https://github.com/zhitaoyin/CIS3260/blob/master/Pic/ClassroomLocation.PNG)
  
  + **Assignment**:
-  + Assignment is designed to (1) reinforce stduents' understanding of the key concepts of programming, and (2) develop students' capabilities to correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java. Thus, assignments will be graded (See **4. Grading Policy** for details.)
+  + Assignment is designed to (1) reinforce stduents' understanding of the key concepts of programming, and (2) develop students' capabilities to correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java. 
   + All assignments will be posted on this website (see **5. Schedule** for details).
-  + Each student is expected to complete and submit his or her assignments in the allocated time (see **5. Schedule** for details). 
+  + Each student is expected to complete and submit his or her assignments in the allocated time (see **5. Schedule** for details). All assignments will be graded (see **4. Grading Policy** for details).
   + ***No late submission of an assignment will be accepted. An assignment that is past due date will be given zero.***
   + All files must be submitted through the corresponding assignment dropbox in [iCollege](http://icollege.gsu.edu), see [the instruction of how to submit a file to iCollege](Doc/iCollegeInstruction.md). 
   + ***Submission through email is not accepted***. 
