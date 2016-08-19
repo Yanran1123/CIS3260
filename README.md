@@ -32,16 +32,18 @@
   + As the lecture is the main opportunity to learn, each student is expected to attend each lecture and activly interact with the instructor and fellow students during class discussion. Thus, ***attendence and interaction will be graded*** (See 4. Grading Policy for details.)
   + ***Lecture Slides*** will be available after each lecture on this website.
  + **Office Hour**: 
-  + Office hour visit is highly recommended for the students who want to discuss concepts as these thoguhts are more difficult to grasp and require more information, discussion and time. Students may want to communicate with the instructor via email to ask questions regarding course logistics. 
-  + [Office hour schedule](Doc/Office%20Hour%20Schedule.md) offers a general guideline for each office hour session. Students are welcome to ask other questions regarding the content of this course as well.
+  + Office hour visit is ***highly recommended*** for the students who want to ***discuss concepts*** as these thoguhts are more difficult to grasp and require more information, discussion and time. Students may want to communicate with the instructor via email to ask questions regarding course logistics. 
+ + [Office hour schedule](Doc/Office%20Hour%20Schedule.md) offers a general guideline for each office hour session. Students are ***welcome*** to ask other questions regarding the content of this course as well.
  + **Textbook**:
   +  Y. Daniel Liang，Introduction to Java programming, Comprehensive Version, 10th Edition [(Hardcopy Link on  Amazon.com)](https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312/ref=sr_1_2?ie=UTF8&qid=1471567611&sr=8-2&keywords=Y.+Daniel+Liang%EF%BC%8CIntroduction+to+Java+programming)
   + Most content of the lecture will be based on the textbook. Thus, it is a good ***referece*** for students to ***prepare*** and ***review*** the class.
  + **See The Forest beyond The Trees**
   + 
- + **Online Learning Resource**: 
+ + **Online Learning Resources**: (additional ways for students to learn programming)
   + [edX](https://www.edx.org/) and [Coursera](https://www.coursera.org/), offer free online courses from the world's best universities including MIT, Harvard, Berkeley, UT and others. *(Type keyword "java" to search free courses.)*
   + [Youtube](https://www.youtube.com), a video platform. *(Type keywords to search video tutorials. For example, how to install Java and set up [Eclipse](https://www.eclipse.org/downloads/eclipse-packages/) for [Java](https://java.com/en/) on your computer)*
+  + [Google](https://www.google.com/), a search engine.
+  + [Stack Overflow](http://stackoverflow.com/), an online community to ask and answer programming questions.
  
 **Practice**
 
