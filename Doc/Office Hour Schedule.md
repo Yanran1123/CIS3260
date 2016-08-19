@@ -5,8 +5,8 @@
 
 | Date                 | Topic                              |
 |:--------------------:| :---------------------------------:|
-| 08.23 1:00pm - 3:00pm | Is this the right course for you? |
-| 08.29 1:00pm - 3:00pm | Is this the right course for you? |
+| 08.23 1:00pm - 3:00pm | Is this the course for you? |
+| 08.29 1:00pm - 3:00pm | Is this the course for you? |
 | 09.06 1:00pm - 3:00pm | Assignment 1&2 |                  
 | 09.12 1:00pm - 3:00pm | Assignment 1&2 |
 | 09.19 1:00pm - 3:00pm | Assignment 3 |      
