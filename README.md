@@ -25,9 +25,9 @@
 **Learn**
  
  + **Lecture**: 
-  +  Each lecture will introduce the ***core concepts*** in one topic and may include a demostration of how to ***apply*** the concept to create, debug, execute, and test well-designed and readable applications in Java.
-  +  ***Lecture slides*** will be available after each lecture on this website. 
-  +  ***Textbook***: Y. Daniel Liang，Introduction to Java programming, Comprehensive Version, 10th Edition [Amazon Link](https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312/ref=sr_1_2?ie=UTF8&qid=1471567611&sr=8-2&keywords=Y.+Daniel+Liang%EF%BC%8CIntroduction+to+Java+programming)
+  +  Each lecture will introduce the ***core concepts*** in one topic and may include a demostration of how to ***apply*** the concepts to create, debug, execute, and test well-designed and readable applications in Java.
+  +  ***Lecture Slides*** will be available after each lecture on this website. 
+  +  ***Required Textbook***: Y. Daniel Liang，Introduction to Java programming, Comprehensive Version, 10th Edition ([Hardcopy Link on  Amazon.com])(https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312/ref=sr_1_2?ie=UTF8&qid=1471567611&sr=8-2&keywords=Y.+Daniel+Liang%EF%BC%8CIntroduction+to+Java+programming)
  + **Office Hour**:
  + **"What you can do with programming skills" Video Series**:
  
