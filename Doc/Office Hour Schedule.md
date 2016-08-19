@@ -1,7 +1,7 @@
 ### Office Hour Schedule
 
 + **Students may want to send an email to zyin3@gsu.edu to make an appointment with the instructor if the office hour does not work for them.**
-+ **The topic offers a general guideline for each office hour. Students are welcome to ask other questions regarding the content of this course as well.**
++ **The topic offers a general guideline for each office hour session. Students are welcome to ask other questions regarding the content of this course as well.**
 
 | Date                 | Topic                              |
 |:--------------------:| :---------------------------------:|
