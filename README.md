@@ -49,7 +49,9 @@
 **Practice**
 
  + **Lab Session**: 
-  +  
+  + Lab session is ***highly recommended*** as it provides opportunities to ***digest and practice*** what the instructor teach in the lecture.
+  + Time: Wednesday 2:30 - 4:00 PM and Friday 1:00 - 2:30 PM
+  + Location: Room 100-S, J. Mack Robinson College of Business, [Map](https://github.com/zhitaoyin/CIS3260/blob/master/Pic/ClassroomLocation.PNG)
  + **Assignment**:
  + **Project**:
  
