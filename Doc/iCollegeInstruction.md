@@ -1,10 +1,10 @@
 #### How to submit a file to iCollege
 + Log in [iCollege website](http://icollege.gsu.edu) using your CampusID and Password.
 
-+ Click assignment
++ Click "Assignment"
 <img src="https://github.com/zhitaoyin/CIS3260/blob/master/Pic/iCollege1.png" alt="icollege1" style="width: 1px;"/>
 
-+ Click Assignment 1
++ Click "Assignment 1"
 <img src="https://github.com/zhitaoyin/CIS3260/blob/master/Pic/iCollege2.png" alt="icollege2" style="width: 1px;"/>
 
 + Click "Upload" button
