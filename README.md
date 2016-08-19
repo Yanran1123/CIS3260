@@ -25,11 +25,20 @@
 **Learn**
  
  + **Lecture**: 
-  +  Each lecture will introduce the ***core concepts*** in one topic and may include a demostration of how to ***apply*** the concepts to create, debug, execute, and test well-designed and readable applications in Java.
-  +  ***Lecture Slides*** will be available after each lecture on this website. 
-  +  ***Required Textbook***: Y. Daniel Liang，Introduction to Java programming, Comprehensive Version, 10th Edition [(Hardcopy Link on  Amazon.com)](https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312/ref=sr_1_2?ie=UTF8&qid=1471567611&sr=8-2&keywords=Y.+Daniel+Liang%EF%BC%8CIntroduction+to+Java+programming)
- + **Office Hour**:
- + **"What you can do with programming skills" Video Series**:
+  + Each lecture will introduce the ***core concepts*** in one topic and may include a demostration of how to ***apply*** the concepts to create, debug, execute, and test well-designed and readable applications in Java.
+  + ***Lecture Slides*** will be available after each lecture on this website. 
+ + **Office Hour**: 
+  + Office hour visit is highly recommended for the students who want to discuss concepts as these thoguhts are more difficult to grasp and require more information, discussion and time. Students may want to communicate with the instructor via email to ask questions regarding course logistics. 
+  + [Office hour schedule](Doc/Office%20Hour%20Schedule.md) offers a general guideline for each office hour session. Students are welcome to ask other questions regarding the content of this course as well.
+ + **Textbook**:
+  +  Y. Daniel Liang，Introduction to Java programming, Comprehensive Version, 10th Edition [(Hardcopy Link on  Amazon.com)](https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312/ref=sr_1_2?ie=UTF8&qid=1471567611&sr=8-2&keywords=Y.+Daniel+Liang%EF%BC%8CIntroduction+to+Java+programming)
+  + Most content of the lecture will come from the textbook. Thus, it is a good referece for students to prepare and review the class.
+ + **See The Forest beyond The Trees**
+  + 
+ + **Online Learning Resource**: 
+  + [edX](https://www.edx.org/), offers free online courses from the world's best universities including MIT, Harvard, Berkeley, UT and others. *(Type keyword "java" to search free courses.)*
+  + [Coursera](https://www.coursera.org/), an education platform that partners with top universities and organizations worldwide, to offer courses online for anyone to take. *(Type keyword "java" to search free courses.)*
+  + [Youtube](https://www.youtube.com), a video platform. *(Type keyword to search video tutorials (e.g., how to install Java and set up Integrated Development Enviorment (IDE) on your computer).)*
  
 **Practice**
 
