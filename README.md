@@ -21,16 +21,22 @@
 ### 3. Paths to Achieve The Learning Objectives
 
 <img src="Pic/Paths.PNG" alt="paths" style="width: 1px;"/>
+
  **Learn**
+ 
  + **Lecture**: 
   +  
  + **Office Hour**:
  + **"What you can do with programming skills" Video Series**:
+ 
  **Practice**
+
  + **Lab Session**: 
  + **Assignment**:
  + **Project**:
+ 
  **Test**
+
  + **Midterm Exam**:
  + **Final Exam**:
 
