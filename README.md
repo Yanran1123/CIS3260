@@ -31,9 +31,11 @@
   + Each lecture will introduce the ***core concepts*** in one topic and may include a demostration of how to ***apply*** the concepts to create, debug, execute, and test well-designed and readable applications in Java.
   + As the lecture is the main opportunity to learn, each student is expected to attend each lecture and activly interact with the instructor and fellow classmates during class discussion. Thus, ***attendence and interaction will be graded*** (see **4. Grading Policy** for details).
   + ***Lecture Slides*** will be available after each lecture on this website.
+  + No audio recording, video recording, or photography is allowed without intructor's permission.
  + **Office Hour**: 
   + Office hour visit is ***highly recommended*** for the students who want to ***discuss concepts*** as these thoguhts are more difficult to grasp and require more information, discussion and time. Students may want to communicate with the instructor via email to ask questions regarding course logistics. 
   + [Office hour schedule](Doc/Office%20Hour%20Schedule.md) offers a general guideline for each office hour session. Students are ***welcome*** to ask other questions regarding the content of this course as well.
+  + No audio recording, video recording, or photography is allowed without intructor's permission.
  + **Textbook**:
   +  Y. Daniel Liang，Introduction to Java programming, Comprehensive Version, 10th Edition [(Hardcopy Link on  Amazon.com)](https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312/ref=sr_1_2?ie=UTF8&qid=1471567611&sr=8-2&keywords=Y.+Daniel+Liang%EF%BC%8CIntroduction+to+Java+programming)
   + Most content of the lecture will be based on the textbook. Thus, it is a good ***referece*** for students to ***prepare*** and ***review*** the class.
@@ -76,8 +78,14 @@
 
 **Test**
 
- + **Midterm Exam**:
- + **Final Exam**:
+ + Exams are designed to test (1) stduents' understanding of the key concepts of programming, and (2) their capabilities to correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java. 
+ + All exames will be graded (see **4. Grading Policy** for details).
+ + Make-up exams will ***not*** be given. 
+  + Students missing an exam will receive a zero on that exam.  
+  + Exams may be taken early if the instructor is given a legitimate reason (jury duties, religious holiday, scheduled surgeries, pregnancy, etc.). 
+  + Proof of reasons must be scanned and sent to the instructor ahead of time (unless absence was due to a legitimate emergency, in which case scanned proof must be sent afterwards).
+ +  No cheat sheet is
+
 
 ### 4. Grading Policy
 
