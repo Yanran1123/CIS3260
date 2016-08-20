@@ -18,4 +18,4 @@
 | 10.31 1:00pm - 3:00pm | Project Part 1 | 
 | 11.07 1:00pm - 3:00pm | Assignment 8 | 
 | 11.14 1:00pm - 3:00pm | Project Part 2 | 
-| 11.28 1:00pm - 3:00pm | Project Part 3 |
+| 11.28 1:00pm - 3:00pm | Project Part 3 & How to continue learning after this course?|
