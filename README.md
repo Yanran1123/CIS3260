@@ -36,7 +36,7 @@
   + [Office hour schedule](Doc/Office%20Hour%20Schedule.md) offers a general guideline for each office hour session. Students are ***welcome*** to ask other questions regarding the content of this course as well.
   + No audio recording, video recording, or photography is allowed without instructor's permission.
  + **Textbook**:
-  +  Y. Daniel Liang，Introduction to Java Programming, Comprehensive Version, 10th Edition [(Hardcopy Link on  Amazon.com)](https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312/ref=sr_1_2?ie=UTF8&qid=1471567611&sr=8-2&keywords=Y.+Daniel+Liang%EF%BC%8CIntroduction+to+Java+programming)
+  +  Y. Daniel Liang，Introduction to Java Programming, Comprehensive Version, 10th Edition ([Hardcopy link on  Amazon.com](https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312/ref=sr_1_2?ie=UTF8&qid=1471567611&sr=8-2&keywords=Y.+Daniel+Liang%EF%BC%8CIntroduction+to+Java+programming), [PDF link](http://www2.sunysuffolk.edu/tangy/cst112/Text_book(10th_ed).pdf))
   + Most content of the lecture will be based on the textbook. Thus, it is a good ***reference*** for students to ***prepare*** and ***review*** the class.
  + **See The Forest Beyond The Trees**:
   + This module is designed to empower students to critically think about the big picture - the impact of programming.
