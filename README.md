@@ -79,6 +79,7 @@
 **Test**
 
  + Exams are designed to test (1) stduents' understanding of the key concepts of programming, and (2) their capabilities to correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java. 
+ + There will be one midterm exam (2.5 hours) and one final exam (2.5 hours).
  + All exames will be graded (see **4. Grading Policy** for details).
  + Make-up exams will ***not*** be given. 
   + Students missing an exam will receive a zero on that exam.  
