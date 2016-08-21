@@ -26,6 +26,7 @@
 **Learn**
  
  + **Lecture**: 
+ 
   + Each lecture will introduce the ***core concepts*** in one topic and may include a demostration of how to ***apply*** the concepts to create, debug, execute, and test well-designed and readable applications in Java.
   + As the lecture is the main opportunity to learn, each student is expected to attend each lecture and activly interact with the instructor and fellow classmates during class discussion. Thus, ***attendence and interaction will be graded*** (see **4. Grading Policy** for details).
   + ***Lecture Slides*** will be available after each lecture on this website.
@@ -51,12 +52,16 @@
  
 **Practice**
 
+You already know how Microsoft was founded. Bill Gates and Paul Allen dropped out of college to form the company in 1975. It’s that simple: Drop out of college, start a company, and become a billionaire, right? Wrong. Further study reveals that Gates and Allen had thousands of hours of programming practice prior to founding Microsoft. - ["10,000 Hours of Practice"](http://www.wisdomgroup.com/blog/10000-hours-of-practice/)
+
  + **Lab Session**: 
+ 
   + Lab session is ***highly recommended*** as it provides opportunities to ***digest and practice*** what the instructor teach in the lecture.
   + Time: Wednesday 2:30 - 4:00 PM and Friday 1:00 - 2:30 PM
   + Location: Room 100-S, J. Mack Robinson College of Business, [Map](Pic/ClassroomLocation.PNG)
  
  + **Assignment**:
+ 
   + The assignment is designed to (1) reinforce stduents' understanding of the key concepts of programming, and (2) develop students' capabilities to correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java. 
   + All assignments will be posted on this website (see **5. Schedule** for details).
   + Each student is expected to complete and submit his or her assignments in the allocated time (see **5. Schedule** for details). All assignments will be graded (see **4. Grading Policy** for details).
@@ -67,6 +72,7 @@
   + Discussion of assignment solutions are highly recommended, but each student must turn in his or her own work. ***Plagiarism or duplicate  assignments will be given zero, a point deduction equivalent to one final grade level (i.e. from a B- to a C-), and a charge of academic dishonesty.  Both the student copying the assignment and the student supplying the copy will be penalized equally.***
 
  + **Project**:
+ 
   + The project is designed to give students' hands-on experience to creatively use programming thinking to identify a problem, break it into pieces, and write code to solve it. 
   + The project will include three modules and will be posted on this website (see **5. Schedule** for details).
   + Each student is expected to complete and submit his or her project in the allocated time (see **5. Schedule** for details). Each module will be graded (see **4. Grading Policy** for details).
@@ -104,6 +110,7 @@
 
 
 ### 5. Schedule
+
  + **October 11 is midepoint of the Fall 2016 semester and the last day to withdraw the class.**
 
 | Lecture | Date  | Lecture Topic                 |See The Forest beyond The Trees|  Assignment                             | Project |
