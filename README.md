@@ -1,6 +1,6 @@
 ##CIS 3260 Session 009: Introduction to Programming
 
-**This syllabus provides a general guideline for the conduct of this course. However, deviations will be necessary. It is students' reponsibility to check the syllabus regularly.**
+**This syllabus provides a general guideline for the conduct of this course. However, deviations will be necessary. It is students' responsibility to check the syllabus regularly.**
 
 ### 1. Logistics
 + **Location**: Room 100-S, J. Mack Robinson College of Business, [Map](Pic/ClassroomLocation.PNG)
