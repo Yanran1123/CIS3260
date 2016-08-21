@@ -99,7 +99,7 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
   + A bathroom break is allowed ***before*** the start of the exam.
   + Each student must come forward to request bathroom break and leave instructor his/her exam and cell phone(s) during the exam.
   + Each student is allowed for max 5 minutes bathroom break during the exam. When the limit is expired, the student is then treated as turning in his/her exam and is not allowed to resume the exam.
- + Each student will receive an electronic version of his or her exam with grade and instructor's my comments. The paper version is kept on file with the CIS Department for future reference.
+ + Each student will receive an electronic version of his or her exam with grade and instructor's comments. The paper version is kept on file with the CIS Department for future reference.
 
 
 ### 4. Grading Policy
