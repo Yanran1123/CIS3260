@@ -12,11 +12,11 @@
 + Task 3: Run the code in Eclipse.
 + Task 4: Explain the code in plain English [Hint: 1. Use the textbook as a dictionary to look up any syntax you are not familiar with. 2. Recollect the functionality of each block in the [Classic Maze Game](https://studio.code.org/hoc/1)]
 
-**Please submit a Word document to the dropbox in iCollege. The Word document should include:**
+**Please submit a Word document to the dropbox in iCollege. The Word document should include 5 parts.**
 
 + A screenshot that captures all the code in Eclipse editor. [**30 points**]
 + A screenshot that captures all the results in Eclipse console. [**10 points**]
-+ What is the problem that the code tries to solve? [**10 points**]
-+ Articulate how the code solves the problem in plain English. [**40 points**]
-+ Based on your evaluation, is the code correct to solve the problem? [**10 points**]
++ The problem that the code tries to solve. [**10 points**]
++ An elaboration of how the code solves the problem in plain English. [**40 points**]
++ An evaluation of whether the code is correct to solve the problem. [**10 points**]
 
