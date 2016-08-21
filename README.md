@@ -69,7 +69,7 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
   + All files must be submitted through the corresponding assignment dropbox in [iCollege](http://icollege.gsu.edu), see [the instruction of how to submit a file to iCollege](Doc/iCollegeInstruction.md). 
   + ***Submission through email is not accepted***. 
   + Make sure to submit all required files specified in the assignment. It is each student's responsibility to check the completeness of the files after the submission. ***An assignment with missing files will be graded with 50% penalty.***
-  + Discussion of assignment solutions are highly recommended, but each student must turn in his or her work. ***Plagiarism or duplicate  assignments will be given zero, a point deduction equivalent to one final grade level (i.e. from a B- to a C-), and a charge of academic dishonesty.  Both the student copying the assignment and the student supplying the copy will be penalized equally.***
+  + Discussion of assignment solutions is highly recommended, but each student must turn in his or her work. ***Plagiarism or duplicate  assignments will be given zero, a point deduction equivalent to one final grade level (i.e. from a B- to a C-), and a charge of academic dishonesty.  Both the student copying the assignment and the student supplying the copy will be penalized equally.***
 
  + **Project**:
  
@@ -80,7 +80,7 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
   + All files must be submitted through the corresponding project dropbox in [iCollege](http://icollege.gsu.edu), see [the instruction of how to submit a file to iCollege](Doc/iCollegeInstruction.md). 
   + ***Submission through email is not accepted***. 
   + Make sure to submit all required files specified in the project module. It is each student's responsibility to check the completeness of the files after the submission. ***A module with missing files will be graded with 50% penalty.***
-  + Discussion of project solutions are highly recommended, but each student must turn in his or her work. ***Plagiarism or duplicate  assignments will be given zero, a point deduction equivalent to one final grade level (i.e. from a B- to a C-), and a charge of academic dishonesty.  Both the student copying the assignment and the student supplying the copy will be penalized equally.***
+  + Discussion of project solutions is highly recommended, but each student must turn in his or her work. ***Plagiarism or duplicate  assignments will be given zero, a point deduction equivalent to one final grade level (i.e. from a B- to a C-), and a charge of academic dishonesty.  Both the student copying the assignment and the student supplying the copy will be penalized equally.***
 
 
 **Test**
