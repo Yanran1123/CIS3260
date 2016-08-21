@@ -1,6 +1,6 @@
 ####Assignment 1
 
-**Instructor's Comment:** 
+**Instructor's Comments:** 
 
 + The assignment is designed to help students to understand the difficulty level of the course and evaluate if this is the course for them.
 + Students may want to seek help from lab session, textbook, office hour, and online learning resources outlined in the syllabus.
@@ -12,7 +12,7 @@
 + Task 3: Run the code in Eclipse.
 + Task 4: Explain each line of the code in plain English [Hint: 1. Use the textbook as a dictionary to look up any syntax you are not familiar with. 2. Recollect the functionality of each block in the [Classic Maze Game](https://studio.code.org/hoc/1)]
 
-Please submit a Word document to the dropbox in iCollege. The word document should include:
+**Please submit a Word document to the dropbox in iCollege. The word document should include:**
 
 + A screenshot that captures all the code in Eclipse editor.
 + A screenshot that captures all the results in Eclipse console.
