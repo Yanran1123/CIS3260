@@ -113,23 +113,23 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
 
  + **October 11 is the midpoint of the Fall 2016 semester and the last day to withdraw the class.**
 
-| Lecture | Date  | Lecture Topic                 |See The Forest Beyond The Trees|  Assignment                             | Project |
-|:-------:|:-----:| :----------------------------:|:-:|:--------------------------------------:|:-------:|
-| 1       | 08.22 | Introduction                  || Assignment 1 out. Due 08.27 at 11:55pm |  |  
-| 2       | 08.29 | Elementary Programming        || Assignment 2 out. Due 09.03 at 11:55pm |  |
-|         | 09.05 | **Labor Day, No Class**       ||                                        |  |
-| 3       | 09.12 | Selections                    || Assignment 3 out. Due 09.17 at 11:55pm |  |
-| 4       | 09.19 | Selections                    || Assignment 4 out. Due 09.24 at 11:55pm |  |
-| 5       | 09.26 | Loops                         || Assignment 5 out. Due 10.01 at 11:55pm |  |
-| 6       | 10.03 | Loops                         || Assignment 6 out. Due 10.08 at 11:55pm |  |
-|         | 10.10 | ***Midterm Exam***            ||                                        |  |
-| 7       | 10.17 | Methods                       || Assignment 7 out. Due 10.22 at 11:55pm |  |
-| 8       | 10.24 | Methods                       ||                                        | Project Module 1 out. Due 10.29 at 11:55pm  |
-| 9       | 10.31 | Single Dimensional Arrays     || Assignment 8 out. Due 11.05 at 11:55pm |  |
-| 10      | 11.07 | Single Dimensional Arrays     ||                                        | Project Module 2 out. Due 11.12 at 11:55pm |
-| 11      | 11.14 | Multidimentionsional Arrays   ||                                        | Project Module 3 out. Due 11.19 at 11:55pm |
-|         | 11.21 | **Thanksgiving Break, No Class**  ||                                        |  |
-| 12      | 11.28 | Objects & Classes and Wrap-up ||                                        |  |
+| Lecture | Date  | Lecture Topic                 |See The Forest Beyond The Trees|  Assignment     | Project | Checklist |
+|:-------:|:-----:| :----------------------------:|:-:|:--------------------------------------:|:-------:|:-:|
+| 1       | 08.22 | Introduction                  || Assignment 1 out. Due 08.27 at 11:55pm |  |Lecture1|
+| 2       | 08.29 | Elementary Programming        || Assignment 2 out. Due 09.03 at 11:55pm |  |Lecture2|
+|         | 09.05 | **Labor Day, No Class**       ||                                        |  ||
+| 3       | 09.12 | Selections                    || Assignment 3 out. Due 09.17 at 11:55pm |  |Lecture3|
+| 4       | 09.19 | Selections                    || Assignment 4 out. Due 09.24 at 11:55pm |  |Lecture4|
+| 5       | 09.26 | Loops                         || Assignment 5 out. Due 10.01 at 11:55pm |  |Lecture5|
+| 6       | 10.03 | Loops                         || Assignment 6 out. Due 10.08 at 11:55pm |  |Lecture6|
+|         | 10.10 | ***Midterm Exam***            ||                                        |  ||
+| 7       | 10.17 | Methods                       || Assignment 7 out. Due 10.22 at 11:55pm |  |Lecture7|
+| 8       | 10.24 | Methods                       ||                                        | Project Module 1 out. Due 10.29 at 11:55pm  |Lecture8|
+| 9       | 10.31 | Single Dimensional Arrays     || Assignment 8 out. Due 11.05 at 11:55pm |  |Lecture9|
+| 10      | 11.07 | Single Dimensional Arrays     ||                                        | Project Module 2 out. Due 11.12 at 11:55pm |Lecture10|
+| 11      | 11.14 | Multidimentionsional Arrays   ||                                        | Project Module 3 out. Due 11.19 at 11:55pm |Lecture11|
+|         | 11.21 | **Thanksgiving Break, No Class**  ||                                        |  ||
+| 12      | 11.28 | Objects & Classes and Wrap-up ||                                        |  |Lecture12|
 |         | 12.05 | ***Final Exam***                    ||                                        |  |
 
 
