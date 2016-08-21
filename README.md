@@ -12,7 +12,7 @@
 
 ### 2. Learning Objectives - Change Your Way of Thinking about and Interacting with The World
 
- + **Concept**: Thoroughly understand the basic programming knowledge (i.e., elementary programming ,selections, and loops) as well as somewhat intermediate programming knowledge (i.e., methods, arrays, and objects & classes).
+ + **Concept**: Thoroughly understand the basic programming knowledge (i.e., elementary programming, selections, and loops) as well as somewhat intermediate programming knowledge (i.e., methods, arrays, and objects & classes).
  + **Application**: Correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java.
  + **Experience**: Creatively use programming thinking to identify a problem, break it into pieces, and write code to solve it.
  + **Impact**: Briefly understand the most up-to-date technologies that are created by programming and the phenomena that are shaped by those technologies.
