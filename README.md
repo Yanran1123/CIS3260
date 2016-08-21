@@ -14,7 +14,7 @@
 
  + **Concept**: Thoroughly understand the basic programming knowledge (i.e., elementary programming, selections, and loops) as well as somewhat intermediate programming knowledge (i.e., methods, arrays, and objects & classes).
  + **Application**: Correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java.
- + **Experience**: Creatively use programming thinking to identify a problem, break it into pieces, and write code to solve it.
+ + **Experience**: Creatively use computational thinking to identify a problem, break it into pieces, and write code to solve it.
  + **Impact**: Briefly understand the most up-to-date technologies that are created by programming and the phenomena that are shaped by those technologies.
 
 <img src="Pic/ObjectiveContent.PNG" alt="howtolearn" style="width: 1px;"/>
