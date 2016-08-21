@@ -21,7 +21,7 @@
 
 
 ####BEHAVIOR DURING CLASS
-***Here are the Robinson expectations:***
+**Here are the Robinson expectations:**
 
 + When the session begins, put away all other work and end your conversations.
 + Pay attention at all times (questions, liked fouled baseballs, can come at you fast, and they can hit you hard).
