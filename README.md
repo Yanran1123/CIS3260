@@ -3,12 +3,12 @@
 **This syllabus provides a general guideline for the conduct of this course. However, deviations will be necessary. It is students' reponsibility to check the syllabus regularly.**
 
 ### 1. Logistics
-+ **Location**: Room 100-S, J. Mack Robinson College of Business, [Map](https://github.com/zhitaoyin/CIS3260/blob/master/Pic/ClassroomLocation.PNG)
++ **Location**: Room 100-S, J. Mack Robinson College of Business, [Map](Pic/ClassroomLocation.PNG)
 + **Time**: 4:30pm - 7:00pm, Monday
 + **Instructor**: [Zhitao Yin](http://zhitaoyin.com)
 + **Email**: zyin3@gsu.edu, *please do not use iCollege to communicate with the instructor*
-+ **Office**: Room 428, 4th Floor, J. Mack Robinson College of Business, [Map](https://github.com/zhitaoyin/CIS3260/blob/master/Pic/OfficeLocation.PNG)
-+ **Office Hour**: [Schedule](https://github.com/zhitaoyin/CIS3260/blob/master/Doc/Office%20Hour%20Schedule.md)
++ **Office**: Room 428, 4th Floor, J. Mack Robinson College of Business, [Map](Pic/OfficeLocation.PNG)
++ **Office Hour**: [Schedule](Doc/Office%20Hour%20Schedule.md)
 
 ### 2. Learning Objectives - Change Your Way of Thinking about and Interacting with The World
 
@@ -54,7 +54,7 @@
  + **Lab Session**: 
   + Lab session is ***highly recommended*** as it provides opportunities to ***digest and practice*** what the instructor teach in the lecture.
   + Time: Wednesday 2:30 - 4:00 PM and Friday 1:00 - 2:30 PM
-  + Location: Room 100-S, J. Mack Robinson College of Business, [Map](https://github.com/zhitaoyin/CIS3260/blob/master/Pic/ClassroomLocation.PNG)
+  + Location: Room 100-S, J. Mack Robinson College of Business, [Map](Pic/ClassroomLocation.PNG)
  
  + **Assignment**:
   + The assignment is designed to (1) reinforce stduents' understanding of the key concepts of programming, and (2) develop students' capabilities to correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java. 
@@ -97,6 +97,11 @@
 
 
 ### 4. Grading Policy
+
+(Pic/GradePolicy1.PNG)
+
+(Pic/GradePolicy2.PNG)
+
 
 ### 5. Schedule
  + **October 11 is midepoint of the Fall 2016 semester and the last day to withdraw the class.**
