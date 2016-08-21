@@ -62,25 +62,25 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
  
  + **Assignment**:
  
-  + The assignment is designed to (1) reinforce stduents' understanding of the key concepts of programming, and (2) develop students' capabilities to correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java. 
+  + The assignment is designed to (1) reinforce students' understanding of the key concepts of programming, and (2) develop students' capabilities to correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java. 
   + All assignments will be posted on this website (see **5. Schedule** for details).
   + Each student is expected to complete and submit his or her assignments in the allocated time (see **5. Schedule** for details). All assignments will be graded (see **4. Grading Policy** for details).
-  + ***No late submission of an assignment will be accepted. An assignment that is past due date will be given zero.***
+  + ***No late submission of an assignment will be accepted. An assignment that is past the due date will be given zero.***
   + All files must be submitted through the corresponding assignment dropbox in [iCollege](http://icollege.gsu.edu), see [the instruction of how to submit a file to iCollege](Doc/iCollegeInstruction.md). 
   + ***Submission through email is not accepted***. 
   + Make sure to submit all required files specified in the assignment. It is each student's responsibility to check the completeness of the files after the submission. ***An assignment with missing files will be graded with 50% penalty.***
-  + Discussion of assignment solutions are highly recommended, but each student must turn in his or her own work. ***Plagiarism or duplicate  assignments will be given zero, a point deduction equivalent to one final grade level (i.e. from a B- to a C-), and a charge of academic dishonesty.  Both the student copying the assignment and the student supplying the copy will be penalized equally.***
+  + Discussion of assignment solutions are highly recommended, but each student must turn in his or her work. ***Plagiarism or duplicate  assignments will be given zero, a point deduction equivalent to one final grade level (i.e. from a B- to a C-), and a charge of academic dishonesty.  Both the student copying the assignment and the student supplying the copy will be penalized equally.***
 
  + **Project**:
  
   + The project is designed to give students' hands-on experience to creatively use programming thinking to identify a problem, break it into pieces, and write code to solve it. 
   + The project will include three modules and will be posted on this website (see **5. Schedule** for details).
   + Each student is expected to complete and submit his or her project in the allocated time (see **5. Schedule** for details). Each module will be graded (see **4. Grading Policy** for details).
-  + ***No late submission of a module will be accepted. A module that is past due date will be given zero.***
+  + ***No late submission of a module will be accepted. A module that is past the due date will be given zero.***
   + All files must be submitted through the corresponding project dropbox in [iCollege](http://icollege.gsu.edu), see [the instruction of how to submit a file to iCollege](Doc/iCollegeInstruction.md). 
   + ***Submission through email is not accepted***. 
   + Make sure to submit all required files specified in the project module. It is each student's responsibility to check the completeness of the files after the submission. ***A module with missing files will be graded with 50% penalty.***
-  + Discussion of project solutions are highly recommended, but each student must turn in his or her own work. ***Plagiarism or duplicate  assignments will be given zero, a point deduction equivalent to one final grade level (i.e. from a B- to a C-), and a charge of academic dishonesty.  Both the student copying the assignment and the student supplying the copy will be penalized equally.***
+  + Discussion of project solutions are highly recommended, but each student must turn in his or her work. ***Plagiarism or duplicate  assignments will be given zero, a point deduction equivalent to one final grade level (i.e. from a B- to a C-), and a charge of academic dishonesty.  Both the student copying the assignment and the student supplying the copy will be penalized equally.***
 
 
 **Test**
