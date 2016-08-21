@@ -10,14 +10,12 @@
 + **Office**: Room 428, 4th Floor, J. Mack Robinson College of Business, [Map](https://github.com/zhitaoyin/CIS3260/blob/master/Pic/OfficeLocation.PNG)
 + **Office Hour**: [Schedule](https://github.com/zhitaoyin/CIS3260/blob/master/Doc/Office%20Hour%20Schedule.md)
 
-### 2. Learning Objectives - Change Your Way of Thinking and Seeing The World
+### 2. Learning Objectives - Change Your Way of Thinking about and Interacting with The World
 
  + **Concept**: Thoroughly understand the basic programming knowledge (i.e., elementary programming ,selections, and loops) as well as somewhat intermediate programming knowledge (i.e., methods, arrays, and objects & classes).
  + **Application**: Correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java.
  + **Experience**: Creatively use programming thinking to identify a problem, break it into pieces, and write code to solve it.
- + **Impact**: The students are expected to see the forest beyond the trees (i.e., programming).
-  + Briefly understand the most up-to-date technologies that are created by programming
-  + Briefly understand the phenomenon that is shaped by those technologies.
+ + **Impact**: Briefly understand the most up-to-date technologies that are created by programming and the phenomena that are shaped by those technologies.
 
 <img src="Pic/ObjectiveContent.PNG" alt="howtolearn" style="width: 1px;"/>
 
