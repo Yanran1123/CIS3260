@@ -85,18 +85,18 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
 
 **Test**
 
- + Exams are designed to test (1) stduents' understanding of the key concepts of programming, (2) their capabilities to correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java, and (3) their critical thinking about the most up-to-date technologies that are created by programming and the phenomena that are shaped by those technologies.
+ + Exams are designed to test (1) students' understanding of the key concepts of programming, (2) their capabilities to correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java, and (3) their critical thinking about the most up-to-date technologies that are created by programming and the phenomena that are shaped by those technologies.
  + There will be one midterm exam (2.5 hours) and one final exam (2.5 hours).
- + All exames will be graded (see **4. Grading Policy** for details).
+ + All exams will be graded (see **4. Grading Policy** for details).
  + Make-up exams will ***not*** be given. 
   + Students missing an exam will receive a zero on that exam.  
   + Exams may be taken early if the instructor is given a legitimate reason (jury duties, religious holiday, scheduled surgeries, pregnancy, etc.). 
-  + Proof of reasons must be scanned and sent to the instructor ahead of time (unless absence was due to a legitimate emergency, in which case scanned proof must be sent afterwards).
+  + Proof of reasons must be scanned and sent to the instructor ahead of time (unless absence was due to a legitimate emergency, in which case scanned proof must be sent afterward).
  + Exams will be closed-book.
   + No cheat(note) sheet is allowed to use during exams.
   + No electronic device (e.g., cellphone, laptop) is allowed to use during exams.
- + Bathroom break policy
-  + Bathroom break is allowed ***before*** the start of the exam.
+ + Bathroom Break Policy
+  + A bathroom break is allowed ***before*** the start of the exam.
   + Each student must come forward to request bathroom break and leave instructor his/her exam and cell phone(s) during the exam.
   + Each is allowed for max 5 minutes bathroom break during the exam. When the limit is expired, the student is then treated as turning in his/her exam and is not allowed to resume the exam.
  + Each student will receive an electronic version of his or her exam with grade and instructor's my comments. The paper version is kept on file with the CIS Department for future reference.
