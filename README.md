@@ -129,6 +129,19 @@ In setting out the professionalism standards for Robinson College, an alignment 
 
 [Full Text of the Professionalism Expectation](Doc/ProfessionalismExpectation.md)
 ### 7. Academic Honesty
+
+University regulations will be enforced regarding dishonorable or unethical conduct (Cheating, Plagiarism, Falsification, Unauthorized Collaboration or Multiple Submissions). The penalties for incidents of academic dishonesty can lead to ***expulsion*** from the University. In this class, there will be ***zero tolerance*** for dishonorable or unethical conduct. Electronic or physical sharing of answers will be considered cheating and will not be tolerated.
+ 
+Cheating on examinations involves giving or receiving unauthorized help before, during, or after an examination. Examples of unauthorized help include sharing information with another student during an examination, intentionally allowing another student to view one’s own examination, and collaboration before or after an examination which is specifically forbidden by the instructor.
+ 
+Submission for academic credit of a work product, or a part thereof, represented as its being one’s own effort, which has been developed in substantial collaboration with assistance from another person or source, or computer based resource, is a violation of academic honesty. It is also a violation of academic honesty to knowingly provide such assistance.  
+ 
+If a student is charged with Academic Dishonesty, for each charge, a zero (0) with be given for the assignment, a minimum of point equivalent of one final grade (i.e. B- to a C-) will be deducted from the final course total points and a written Notice of Academic Dishonesty will be given to the Dean’s office. The student will also receive a copy of the notice. 
+All assignments, project modules and exams are to be completed by the student alone. 
+Copy work from the Internet without a proper reference will be considered plagiarism and subject to disciplinary action as delineated in the Student Handbook. 
+
+For more information, see [Student Code of Conduct and Administrative Policies and Procedures](http://codeofconduct.gsu.edu/files/2016/08/Georgia-State-University_Student-Code-of-Conduct-20162017_08172016.pdf)
+
 ### 8. Miscellaneous
 
 
