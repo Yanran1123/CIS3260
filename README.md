@@ -95,10 +95,10 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
  + Exams will be closed-book.
   + No cheat(note) sheet is allowed to use during exams.
   + No electronic device (e.g., cellphone, laptop) is allowed to use during exams.
- + Bathroom Break Policy
+ + Bathroom Break (CIS Department Policy)
   + A bathroom break is allowed ***before*** the start of the exam.
   + Each student must come forward to request bathroom break and leave instructor his/her exam and cell phone(s) during the exam.
-  + Each is allowed for max 5 minutes bathroom break during the exam. When the limit is expired, the student is then treated as turning in his/her exam and is not allowed to resume the exam.
+  + Each student is allowed for max 5 minutes bathroom break during the exam. When the limit is expired, the student is then treated as turning in his/her exam and is not allowed to resume the exam.
  + Each student will receive an electronic version of his or her exam with grade and instructor's my comments. The paper version is kept on file with the CIS Department for future reference.
 
 
