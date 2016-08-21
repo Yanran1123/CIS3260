@@ -127,7 +127,7 @@ Developing professionalism is one of the skills that the Robinson experience emp
 
 In setting out the professionalism standards for Robinson College, an alignment with the real world workplace is always in mind. These standards may be significantly different from what your current habits are. That’s fine; that’s part of why you are here. Developing new habits of professionalism in our everyday interactions, both inside and outside the classroom, is part of what will give you the Robinson advantage.
 
-[Full Text of the Professionalism Expectation](Doc/ProfessionalismExpectation.md)
+[A Complete Version of RCB Professionalism Expectation](Doc/ProfessionalismExpectation.md)
 ### 7. Academic Honesty
 
 University regulations will be enforced regarding dishonorable or unethical conduct (Cheating, Plagiarism, Falsification, Unauthorized Collaboration or Multiple Submissions). The penalties for incidents of academic dishonesty can lead to ***expulsion*** from the University. In this class, there will be ***zero tolerance*** for dishonorable or unethical conduct. Electronic or physical sharing of answers will be considered cheating and will not be tolerated.
@@ -140,7 +140,7 @@ If a student is charged with Academic Dishonesty, for each charge, a zero (0) wi
 All assignments, project modules and exams are to be completed by the student alone. 
 Copy work from the Internet without a proper reference will be considered plagiarism and subject to disciplinary action as delineated in the Student Handbook. 
 
-For more information, see [Student Code of Conduct and Administrative Policies and Procedures](http://codeofconduct.gsu.edu/files/2016/08/Georgia-State-University_Student-Code-of-Conduct-20162017_08172016.pdf)
+For more information, see [Student Code of Conduct and Administrative Policies and Procedures](http://codeofconduct.gsu.edu/files/2016/08/Georgia-State-University_Student-Code-of-Conduct-20162017_08172016.pdf).
 
 ### 8. Miscellaneous
 
