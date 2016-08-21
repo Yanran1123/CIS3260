@@ -8,9 +8,8 @@
 + Apologize to the group for your late arrival at a break or when class is over.
 + Do not disrupt the class by entering and exiting the class meeting while activities are in session. If you will need to leave, inform the instructor ahead of time.
 + Do not bring visitors into the classroom or the team meetings except with the prior consent of the instructor or your teammates.
-+ If you arrive late, please wait until a break to turn in any assignments due at the start of class, but note that the assignment is “late” and this is something that is not acceptable in the workplace or at Robinson.
-+ If you know that you are going to be late, let the instructor or your teammates know as far ahead of time as possible. (But do NOT send a text to them while driving.)
-+ If you miss the first day of class for any reason, contact the instructor. Explain the situation and ask what needs to be done. Many organizing activities take place on the first day and you want to be in the system when the next class session is held. If you know you are going to miss the first class ahead of time, but be sure to contact the instructor so you are kept on the roster.
++ If you know that you are going to be late, let the instructor know as far ahead of time as possible.
++ If you know you are going to miss the first class ahead of time, but be sure to contact the instructor so you are kept on the roster.
 
 
 ####TECHNOLOGY
