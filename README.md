@@ -158,12 +158,15 @@ For more information, see [Student Code of Conduct and Administrative Policies a
 ### 8. Miscellaneous
 
 **Prerequisites**
+
 Prerequisites are strictly enforced. Students failing to complete a prerequisite with a grade of “C” or higher will be administratively withdrawn from the course in which they are in violation with a loss of tuition fees. There are no exceptions. 
 
 **Withdrawing**
+
 A 'W' grade will be assigned if a student withdraws before the middle of the semester while maintaining a passing grade.  A 'WF' will be assigned if a student withdraws before the middle of the semester while doing failing work OR after the middle of the semester.
 
 **Submission**
+
 A copy of student work is kept on file with the CIS Department for future reference.
 
 
