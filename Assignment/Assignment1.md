@@ -16,5 +16,5 @@
 
 + A screenshot that captures all the code in Eclipse editor.
 + A screenshot that captures all the results in Eclipse console.
-+ A paragraph that explain each line of the code in plain English.
++ A paragraph that explains each line of the code in plain English.
 
