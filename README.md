@@ -98,9 +98,9 @@
 
 ### 4. Grading Policy
 
-(Pic/GradePolicy1.PNG)
+<img src="Pic/GradePolicy1.PNG" alt="gradepolicy1" style="width: 1px;"/>
 
-(Pic/GradePolicy2.PNG)
+<img src="Pic/GradePolicy2.PNG" alt="gradepolicy2" style="width: 1px;"/>
 
 
 ### 5. Schedule
