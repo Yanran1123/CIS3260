@@ -111,9 +111,9 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
 
 ### 5. Schedule
 
- + **October 11 is midepoint of the Fall 2016 semester and the last day to withdraw the class.**
+ + **October 11 is midpoint of the Fall 2016 semester and the last day to withdraw the class.**
 
-| Lecture | Date  | Lecture Topic                 |See The Forest beyond The Trees|  Assignment                             | Project |
+| Lecture | Date  | Lecture Topic                 |See The Forest Beyond The Trees|  Assignment                             | Project |
 |:-------:|:-----:| :----------------------------:|:-:|:--------------------------------------:|:-------:|
 | 1       | 08.22 | Introduction                  |Big Data| Assignment 1 out. Due 08.27 at 11:55pm |  |  
 | 2       | 08.29 | Elementary Programming        || Assignment 2 out. Due 09.03 at 11:55pm |  |
@@ -125,8 +125,8 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
 |         | 10.10 | ***Midterm Exam***            ||                                        |  |
 | 7       | 10.17 | Methods                       || Assignment 7 out. Due 10.22 at 11:55pm |  |
 | 8       | 10.24 | Methods                       ||                                        | Project Module 1 out. Due 10.29 at 11:55pm  |
-| 9       | 10.31 | Single Dimentional Arrays     || Assignment 8 out. Due 11.05 at 11:55pm |  |
-| 10      | 11.07 | Single Dimentional Arrays     ||                                        | Project Module 2 out. Due 11.12 at 11:55pm |
+| 9       | 10.31 | Single Dimensional Arrays     || Assignment 8 out. Due 11.05 at 11:55pm |  |
+| 10      | 11.07 | Single Dimensional Arrays     ||                                        | Project Module 2 out. Due 11.12 at 11:55pm |
 | 11      | 11.14 | Multidimentionsional Arrays   ||                                        | Project Module 3 out. Due 11.19 at 11:55pm |
 |         | 11.21 | **Thanksgiving Break, No Class**  ||                                        |  |
 | 12      | 11.28 | Objects & Classes and Wrap-up ||                                        |  |
@@ -147,7 +147,7 @@ University regulations will be enforced regarding dishonorable or unethical cond
  
 Cheating on examinations involves giving or receiving unauthorized help before, during, or after an examination. Examples of unauthorized help include sharing information with another student during an examination, intentionally allowing another student to view one’s own examination, and collaboration before or after an examination which is specifically forbidden by the instructor.
  
-Submission for academic credit of a work product, or a part thereof, represented as its being one’s own effort, which has been developed in substantial collaboration with assistance from another person or source, or computer based resource, is a violation of academic honesty. It is also a violation of academic honesty to knowingly provide such assistance.  
+Submission for academic credit of a work product, or a part thereof, represented as its being one’s own effort, which has been developed in substantial collaboration with assistance from another person or source, or computer-based resource, is a violation of academic honesty. It is also a violation of academic honesty to knowingly provide such assistance.  
  
 If a student is charged with Academic Dishonesty, for each charge, a zero (0) with be given for the assignment, a minimum of point equivalent of one final grade (i.e. B- to a C-) will be deducted from the final course total points and a written Notice of Academic Dishonesty will be given to the Dean’s office. The student will also receive a copy of the notice. 
 All assignments, project modules and exams are to be completed by the student alone. 
