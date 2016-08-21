@@ -15,9 +15,9 @@
 ####TECHNOLOGY
 **Here are some of the expectations about how you will manage your technology at Robinson:**
 
-+ Unless it is appropriate for the class activity, turn off all electronic devices when you enter the classroom. Use technology only for appropriate purposes.
++ Turn off all electronic devices when you enter the classroom. Use technology only for appropriate purposes.
 + Your tablet or laptop may be appropriate for taking notes but it is not appropriate for any other activity.
-+ If you need to have a device turned on due to pending personal or business emergencies then a) tell the instructor or your teammates ahead of time, and b) only have it on vibrate or other silent notification mode.
++ If you need to have a device turned on due to pending personal or business emergencies then a) tell the instructor ahead of time, and b) only have it on vibrate or other silent notification mode.
 
 
 ####BEHAVIOR DURING CLASS
