@@ -27,22 +27,22 @@
  
  + **Lecture**: 
  
-  + Each lecture will introduce the ***core concepts*** in one topic and may include a demostration of how to ***apply*** the concepts to create, debug, execute, and test well-designed and readable applications in Java.
-  + As the lecture is the main opportunity to learn, each student is expected to attend each lecture and activly interact with the instructor and fellow classmates during class discussion. Thus, ***attendence and interaction will be graded*** (see **4. Grading Policy** for details).
+  + Each lecture will introduce the ***core concepts*** in one topic and may include a demonstration of how to ***apply*** the concepts to create, debug, execute, and test well-designed and readable applications in Java.
+  + As the lecture is the main opportunity to learn, each student is expected to attend each lecture and actively interact with the instructor and fellow classmates during class discussion. Thus, ***attendance and interaction will be graded*** (see **4. Grading Policy** for details).
   + ***Lecture Slides*** will be available after each lecture on this website.
-  + No audio recording, video recording, or photography is allowed without intructor's permission.
+  + No audio recording, video recording, or photography is allowed without instructor's permission.
  + **Office Hour**: 
-  + Office hour visit is ***highly recommended*** for the students who want to ***discuss concepts*** as these thoguhts are more difficult to grasp and require more information, discussion and time. Students may want to communicate with the instructor via email to ask questions regarding course logistics. 
+  + Office hour visit is ***highly recommended*** for the students who want to ***discuss concepts*** as these thoughts are more difficult to grasp and require more information, discussion and time. Students may want to communicate with the instructor via email to ask questions regarding course logistics. 
   + [Office hour schedule](Doc/Office%20Hour%20Schedule.md) offers a general guideline for each office hour session. Students are ***welcome*** to ask other questions regarding the content of this course as well.
-  + No audio recording, video recording, or photography is allowed without intructor's permission.
+  + No audio recording, video recording, or photography is allowed without instructor's permission.
  + **Textbook**:
   +  Y. Daniel Liang，Introduction to Java programming, Comprehensive Version, 10th Edition [(Hardcopy Link on  Amazon.com)](https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312/ref=sr_1_2?ie=UTF8&qid=1471567611&sr=8-2&keywords=Y.+Daniel+Liang%EF%BC%8CIntroduction+to+Java+programming)
-  + Most content of the lecture will be based on the textbook. Thus, it is a good ***referece*** for students to ***prepare*** and ***review*** the class.
+  + Most content of the lecture will be based on the textbook. Thus, it is a good ***reference*** for students to ***prepare*** and ***review*** the class.
  + **See The Forest beyond The Trees**:
-  + This module is designed to empower students to criticaly think about the big picture - the impact of programming.
+  + This module is designed to empower students to critically think about the big picture - the impact of programming.
   + Starting from Lecture 2, the instructor will allocate 10 mins to briefly introduce the most up-to-date technologies that are created by programming or the phenomena that are shaped by those technologies in each lecture.
-  + The students are expected to (1) watch videos and/or read articles after class, and (2) discuss the questions assigned by the instructor with fellow classmeates after class.
-  + This module will be tested in the mideterm and fianl exam.
+  + The students are expected to (1) watch videos and/or read articles after class, and (2) discuss the questions assigned by the instructor with fellow classmates after class.
+  + This module will be tested in the midterm and final exam.
  + **Online Learning Resources**: (additional ways for students to learn programming)
   + [edX](https://www.edx.org/) and [Coursera](https://www.coursera.org/), offer free online courses from the world's best universities including MIT, Harvard, Berkeley, UT and others. *(Type keyword "java" to search free courses.)*
   + [Stack Overflow](http://stackoverflow.com/), an online community to ask and answer programming questions.
