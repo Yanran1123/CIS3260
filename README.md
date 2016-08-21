@@ -93,6 +93,7 @@
   + Bathroom break is allowed ***before*** the start of the exam.
   + Each student must come forward to request bathroom break and leave instructor his/her exam and cell phone(s) during the exam.
   + Each is allowed for max 5 minutes bathroom break during the exam. When the limit is expired, the student is then treated as turning in his/her exam and is not allowed to resume the exam.
+ + Each student will receive an electronic version of his or her exam with grade and instructor's my comments. The paper version is kept on file with the CIS Department for future reference.
 
 
 ### 4. Grading Policy
@@ -143,6 +144,14 @@ Copy work from the Internet without a proper reference will be considered plagia
 For more information, see [Student Code of Conduct and Administrative Policies and Procedures](http://codeofconduct.gsu.edu/files/2016/08/Georgia-State-University_Student-Code-of-Conduct-20162017_08172016.pdf).
 
 ### 8. Miscellaneous
++ Prerequisites
+Prerequisites are strictly enforced. Students failing to complete a prerequisite with a grade of “C” or higher will be administratively withdrawn from the course in which they are in violation with a loss of tuition fees. There are no exceptions. 
+
++ Withdrawing
+A 'W' grade will be assigned if a student withdraws before the middle of the semester while maintaining a passing grade.  A 'WF' will be assigned if a student withdraws before the middle of the semester while doing failing work OR after the middle of the semester.
+
++ Submission
+A copy of student work is kept on file with the CIS Department for future reference.
 
 
 
