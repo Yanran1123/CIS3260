@@ -122,6 +122,12 @@
 
 
 ### RCB Professionalism Expectation
+
+Developing professionalism is one of the skills that the Robinson experience emphasizes. The degree of professionalism that you develop in all of your interactions in the GSU community will impact your ability to achieve your goals both in Robinson and in your career. This is true whether you are in a for-profit business, a nonprofit organization, government, or any other context where the organization’s goals are tied to your goals.
+
+In setting out the professionalism standards for Robinson College, an alignment with the real world workplace is always in mind. These standards may be significantly different from what your current habits are. That’s fine; that’s part of why you are here. Developing new habits of professionalism in our everyday interactions, both inside and outside the classroom, is part of what will give you the Robinson advantage.
+
+[Full Text of the Professionalism Expectation](Doc/ProfessionalismExpectation.md)
 ### Academic Honesty
 ### Miscellaneous
 
