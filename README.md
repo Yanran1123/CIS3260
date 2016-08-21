@@ -99,14 +99,10 @@
 
 ### 5. Schedule
  + **October 11 is midepoint of the Fall 2016 semester and the last day to withdraw the class.**
- + Click the hyperlink of each lecture title to see the lecture slides and other materials.
- + Click the hyperlink of each assignment to see the assignment instruction.
- + Click the hyperlink of each project module to see the project instruction.
- + Click the hyperlink of each exam to see the exam instruction.
- 
+
 | Lecture | Date  | Lecture Topic                 |See The Forest beyond The Trees|  Assignment                             | Project |
 |:-------:|:-----:| :----------------------------:|:-:|:--------------------------------------:|:-------:|
-| 1       | 08.22 | Introduction                  || Assignment 1 out. Due 08.27 at 11:55pm |  |  
+| 1       | 08.22 | Introduction                  |Big Data| Assignment 1 out. Due 08.27 at 11:55pm |  |  
 | 2       | 08.29 | Elementary Programming        || Assignment 2 out. Due 09.03 at 11:55pm |  |
 |         | 09.05 | **Labor Day, No Class**       ||                                        |  |
 | 3       | 09.12 | Selections                    || Assignment 3 out. Due 09.17 at 11:55pm |  |
