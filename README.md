@@ -37,8 +37,11 @@
  + **Textbook**:
   +  Y. Daniel Liang，Introduction to Java programming, Comprehensive Version, 10th Edition [(Hardcopy Link on  Amazon.com)](https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312/ref=sr_1_2?ie=UTF8&qid=1471567611&sr=8-2&keywords=Y.+Daniel+Liang%EF%BC%8CIntroduction+to+Java+programming)
   + Most content of the lecture will be based on the textbook. Thus, it is a good ***referece*** for students to ***prepare*** and ***review*** the class.
- + **See The Forest beyond The Trees**
-  + 
+ + **See The Forest beyond The Trees**:
+  + This module is designed to empower students to criticaly think about the big picture - the impact of programming.
+  + Starting from Lecture 2, the instructor will allocate 10 mins to briefly introduce the most up-to-date technologies that are created by programming or the phenomena that are shaped by those technologies in each lecture.
+  + The students are expected to (1) watch videos and/or read articles after class, and (2) discuss the questions assigned by the instructor with fellow classmeates after class.
+  + This module will be tested in the mideterm and fianl exam.
  + **Online Learning Resources**: (additional ways for students to learn programming)
   + [edX](https://www.edx.org/) and [Coursera](https://www.coursera.org/), offer free online courses from the world's best universities including MIT, Harvard, Berkeley, UT and others. *(Type keyword "java" to search free courses.)*
   + [Stack Overflow](http://stackoverflow.com/), an online community to ask and answer programming questions.
@@ -76,7 +79,7 @@
 
 **Test**
 
- + Exams are designed to test (1) stduents' understanding of the key concepts of programming, and (2) their capabilities to correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java. 
+ + Exams are designed to test (1) stduents' understanding of the key concepts of programming, (2) their capabilities to correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java, and (3) their critical thinking about the most up-to-date technologies that are created by programming and the phenomena that are shaped by those technologies.
  + There will be one midterm exam (2.5 hours) and one final exam (2.5 hours).
  + All exames will be graded (see **4. Grading Policy** for details).
  + Make-up exams will ***not*** be given. 
@@ -95,29 +98,30 @@
 ### 4. Grading Policy
 
 ### 5. Schedule
- + **10.11 is the Fall 2016 semester midopint and the last day to withdraw the class.**
- + Click the hyperlink of each topic to see its corresponding materials.
- + Click the hyperlink of each assignment to see its corresponding materials.
- + Click the hyperlink of each project to see its corresponding materials.
+ + **October 11 is midepoint of the Fall 2016 semester and the last day to withdraw the class.**
+ + Click the hyperlink of each lecture title to see the lecture slides and other materials.
+ + Click the hyperlink of each assignment to see the assignment instruction.
+ + Click the hyperlink of each project module to see the project instruction.
+ + Click the hyperlink of each exam to see the exam instruction.
  
-| Lecture | Date  | Topic                         | Assignment                             | Project |
-|:-------:|:-----:| :----------------------------:|:--------------------------------------:|:-------:|
-| 1       | 08.22 | Introduction                  | Assignment 1 out. Due 08.27 at 11:55pm |  |  
-| 2       | 08.29 | Elementary Programming        | Assignment 2 out. Due 09.03 at 11:55pm |  |
-|         | 09.05 | **Labor Day, No Class**           |                                        |  |
-| 3       | 09.12 | Selections                    | Assignment 3 out. Due 09.17 at 11:55pm |  |
-| 4       | 09.19 | Selections                    | Assignment 4 out. Due 09.24 at 11:55pm |  |
-| 5       | 09.26 | Loops                         | Assignment 5 out. Due 10.01 at 11:55pm |  |
-| 6       | 10.03 | Loops                         | Assignment 6 out. Due 10.08 at 11:55pm |  |
-|         | 10.10 | ***Midterm Exam***                  |                                        |  |
-| 7       | 10.17 | Methods                       | Assignment 7 out. Due 10.22 at 11:55pm |  |
-| 8       | 10.24 | Methods                       |                                        | Project Module 1 out. Due 10.29 at 11:55pm  |
-| 9       | 10.31 | Single Dimentional Arrays     | Assignment 8 out. Due 11.05 at 11:55pm |  |
-| 10      | 11.07 | Single Dimentional Arrays     |                                        | Project Module 2 out. Due 11.12 at 11:55pm |
-| 11      | 11.14 | Multidimentionsional Arrays   |                                        | Project Module 3 out. Due 11.19 at 11:55pm |
-|         | 11.21 | **Thanksgiving Break, No Class**  |                                        |  |
-| 12      | 11.28 | Objects & Classes and Wrap-up |                                        |  |
-|         | 12.05 | ***Final Exam***                    |                                        |  |
+| Lecture | Date  | Lecture Topic                 |See The Forest beyond The Trees|  Assignment                             | Project |
+|:-------:|:-----:| :----------------------------:|:-:|:--------------------------------------:|:-------:|
+| 1       | 08.22 | Introduction                  || Assignment 1 out. Due 08.27 at 11:55pm |  |  
+| 2       | 08.29 | Elementary Programming        || Assignment 2 out. Due 09.03 at 11:55pm |  |
+|         | 09.05 | **Labor Day, No Class**       ||                                        |  |
+| 3       | 09.12 | Selections                    || Assignment 3 out. Due 09.17 at 11:55pm |  |
+| 4       | 09.19 | Selections                    || Assignment 4 out. Due 09.24 at 11:55pm |  |
+| 5       | 09.26 | Loops                         || Assignment 5 out. Due 10.01 at 11:55pm |  |
+| 6       | 10.03 | Loops                         || Assignment 6 out. Due 10.08 at 11:55pm |  |
+|         | 10.10 | ***Midterm Exam***            ||                                        |  |
+| 7       | 10.17 | Methods                       || Assignment 7 out. Due 10.22 at 11:55pm |  |
+| 8       | 10.24 | Methods                       ||                                        | Project Module 1 out. Due 10.29 at 11:55pm  |
+| 9       | 10.31 | Single Dimentional Arrays     || Assignment 8 out. Due 11.05 at 11:55pm |  |
+| 10      | 11.07 | Single Dimentional Arrays     ||                                        | Project Module 2 out. Due 11.12 at 11:55pm |
+| 11      | 11.14 | Multidimentionsional Arrays   ||                                        | Project Module 3 out. Due 11.19 at 11:55pm |
+|         | 11.21 | **Thanksgiving Break, No Class**  ||                                        |  |
+| 12      | 11.28 | Objects & Classes and Wrap-up ||                                        |  |
+|         | 12.05 | ***Final Exam***                    ||                                        |  |
 
 
 
