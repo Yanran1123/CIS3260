@@ -12,7 +12,7 @@
 + Task 3: Run the code in Eclipse.
 + Task 4: Explain the code in plain English [Hint: 1. Use the textbook as a dictionary to look up any syntax you are not familiar with. 2. Recollect the functionality of each block in the [Classic Maze Game](https://studio.code.org/hoc/1)]
 
-**Please submit a Word document to the dropbox in iCollege. The Word document should include 5 parts.**
+**Please submit a Word document to the dropbox in iCollege. The Word document should include 5 parts. Students may want to mention if they face any difficulty while finishing the assignment and how they overcome the difficulty.**
 
 + A screenshot that captures all the code in Eclipse editor. [**30 points**]
 + A screenshot that captures all the results in Eclipse console. [**10 points**]
