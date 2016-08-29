@@ -10,7 +10,7 @@
 **The problem to address in this assignment: Identify all distinct prime numbers in assignment2.csv.**
 
 Now, let us break the problem into 4 tasks.
-+ Task 1: Read [assignment2.csv](https://www.dropbox.com/s/p61p387br7hts16/assignment2.csv?dl=0) into your computer  [Hint: see demo code in lecture 2]
++ Task 1: Download and read [assignment2.csv](https://www.dropbox.com/s/p61p387br7hts16/assignment2.csv?dl=0) into your computer  [Hint: see demo code in lecture 2]
 + Task 2: Extract all numbers [Hint: see demo code in lecture 2]
 + Task 3: Identify if a number is a prime number [Hint: see assignment 1]
 + Task 4: Display all distinct prime numbers [Hint: see assignment 1]
