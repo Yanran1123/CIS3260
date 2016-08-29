@@ -5,9 +5,10 @@
 + The assignment is designed to develop stduents' capabilities to (1) creatively recombine different code blocks (i.e., prime number code and text processing code); and (2) manipulate text using Regular Expression.
 + Students may want to seek help from lab session, textbook, office hour, and online learning resources outlined in the syllabus.
 
-**There are 4 tasks in the assignment.**
 
-Problem to address: Identify all distinct prime numbers in assignment2.csv. 
+
+**The problem to address: Identify all distinct prime numbers in assignment2.csv. **
+
 Now, let us break the problem into 4 tasks.
 + Task 1: Read [assignment2.csv]() into your computer  [Hint: see demo code in lecture 2]
 + Task 2: Extract all integer numbers [Hint: see demo code in lecture 2]
