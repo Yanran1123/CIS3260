@@ -1,13 +1,6 @@
 #### Lecture 2
 
-+ [Demo Code 1]()
-+ [Demo Code 2]()
-+ [Demo Code 3]()
-+ [Demo Code 4]()
-+ [Demo Code 5]()
-+ [Demo Code 6]()
-+ [Demo Code 7]()
-+ [Demo Code 8]()
++ [Demo Code and data folder](https://www.dropbox.com/sh/v07qjo6fxtyp5ao/AABZUjOysYErRCdJCqI0n-_la?dl=0)
 + [Regular Expression Cheat Sheet](http://www.rexegg.com/regex-quickstart.html)
 + [Regular Expression Visualization Application](https://regexper.com/)
 + [Regular Expression Tester](http://java-regex-tester.appspot.com/)
