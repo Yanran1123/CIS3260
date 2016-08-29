@@ -9,5 +9,6 @@
 + [Demo Code 7]()
 + [Demo Code 8]()
 + [Regular Expression Cheat Sheet](http://www.rexegg.com/regex-quickstart.html)
++ [Regular Expression Visualization Application](https://regexper.com/)
 + [Regular Expression Tester](http://java-regex-tester.appspot.com/)
 + [Sentiment Analysis Online Application](http://text-processing.com/demo/sentiment/), [Rosa's Pizza Yelp Review](https://www.yelp.com/biz/rosas-pizza-atlanta)
