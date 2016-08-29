@@ -7,10 +7,10 @@
 
 **There are 4 tasks in the assignment.**
 
-+ Task 1: Read [assignment2.csv]() into your computer  [Hint: see Demo code in lecture 2]
-+ Task 2: Extract all numbers
-+ Task 3: Identify if a number is a prime number
-+ Task 4: Display all distinct prime number
++ Task 1: Read [assignment2.csv]() into your computer  [Hint: see demo code in lecture 2]
++ Task 2: Extract all numbers [Hint: see demo code in lecture 2]
++ Task 3: Identify if a number is a prime number [Hint: see assignment 1]
++ Task 4: Display all distinct prime number [Hint: see assignment 1]
 
 **Please submit your source to the Dropbox in iCollege. Students may also want to submit a Word document that elaborates any challenge they face while finishing the assignment and how they overcome the challenge.**
 
