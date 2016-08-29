@@ -7,7 +7,6 @@
 + [Sentiment Analysis Online Application](http://text-processing.com/demo/sentiment/), [Rosa's Pizza Yelp Review](https://www.yelp.com/biz/rosas-pizza-atlanta)
 
 **Checklist 8.30-9.11**
-+ Assignment 2
 + See the forest beyond trees: Big Data
 + Review lecture 2
 + Lab session
