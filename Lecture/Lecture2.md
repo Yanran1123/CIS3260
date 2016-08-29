@@ -10,5 +10,4 @@
 + [Demo Code 8]()
 + [Regular Expression Cheat Sheet](http://www.rexegg.com/regex-quickstart.html)
 + [Regular Expression Tester](http://java-regex-tester.appspot.com/)
-+ [Sentiment Analysis Online Application](http://text-processing.com/demo/sentiment/)
-+ [Politeness Analysis Online Application](http://politeness.mpi-sws.org/)
++ [Sentiment Analysis Online Application](http://text-processing.com/demo/sentiment/), [Rosa's Pizza Yelp Review](https://www.yelp.com/biz/rosas-pizza-atlanta)
