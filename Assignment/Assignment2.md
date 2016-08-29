@@ -7,7 +7,7 @@
 
 
 
-**The problem to address: Identify all distinct prime numbers in assignment2.csv. **
+**The problem to address: Identify all distinct prime numbers in assignment2.csv.**
 
 Now, let us break the problem into 4 tasks.
 + Task 1: Read [assignment2.csv]() into your computer  [Hint: see demo code in lecture 2]
