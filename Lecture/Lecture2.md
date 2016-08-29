@@ -1,6 +1,6 @@
 #### Lecture 2
 
-+ [Demo Code and Data Folder](https://www.dropbox.com/sh/v07qjo6fxtyp5ao/AABZUjOysYErRCdJCqI0n-_la?dl=0)
++ [Demo Code and Data](https://www.dropbox.com/sh/v07qjo6fxtyp5ao/AABZUjOysYErRCdJCqI0n-_la?dl=0)
 + [Regular Expression Cheat Sheet](http://www.rexegg.com/regex-quickstart.html)
 + [Regular Expression Visualization Application](https://regexper.com/)
 + [Regular Expression Tester](http://java-regex-tester.appspot.com/)
