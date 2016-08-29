@@ -12,7 +12,7 @@
 + Task 3: Identify if a number is a prime number [Hint: see assignment 1]
 + Task 4: Display all distinct prime number [Hint: see assignment 1]
 
-**Please submit your source to the Dropbox in iCollege. Students may also want to submit a Word document that elaborates any challenge they face while finishing the assignment and how they overcome the challenge.**
+**Please submit your source code to the Dropbox in iCollege. Students may also want to submit a Word document that elaborates any challenge they face while finishing the assignment and how they overcome the challenge.**
 
 + Task 1 [**5 points**]
 + Task 2 [**40 points**]
