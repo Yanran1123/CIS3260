@@ -10,3 +10,5 @@
 + [Demo Code 8]()
 + [Regular Expression Cheat Sheet](http://www.rexegg.com/regex-quickstart.html)
 + [Regular Expression Tester](http://java-regex-tester.appspot.com/)
++ [Sentiment Analysis Online Application](http://text-processing.com/demo/sentiment/)
++ [Politeness Analysis Online Application](http://politeness.mpi-sws.org/)
