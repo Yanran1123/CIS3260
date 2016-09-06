@@ -115,9 +115,9 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
 
 | Lecture | Date  | Lecture Topic                 |See The Forest Beyond The Trees|  Assignment     | Project |
 |:-------:|:-----:| :----------------------------:|:-:|:--------------------------------------:|:-------:|
-| 1       | 08.22 | [Introduction](https://goo.gl/5ZlFLb)                  || [Assignment 1 out](Assignment/Assignment1.md). Due 08.27 at 11:55pm |  |
-| 2       | 08.29 | [Elementary Programming](Lecture/Lecture2.md)        |[Big Data](Forrest/Big%20Data.md)|  |  |
-|         | 09.05 | **Labor Day, No Class**       ||                                        |  |
+| 1       | ~~08.22~~ | [Introduction](https://goo.gl/5ZlFLb)                  || [Assignment 1 out](Assignment/Assignment1.md). Due 08.27 at 11:55pm |  |
+| 2       | ~~08.29~~ | [Elementary Programming](Lecture/Lecture2.md)        |[Big Data](Forrest/Big%20Data.md)|  |  |
+|         | ~~09.05~~ | **Labor Day, No Class**       ||                                        |  |
 | 3       | 09.12 | Selections                    || Assignment 2 out. Due 09.17 at 11:55pm |  |
 | 4       | 09.19 | Selections                    || Assignment 3 out. Due 09.24 at 11:55pm |  |
 | 5       | 09.26 | Loops                         || Assignment 4 out. Due 10.01 at 11:55pm |  |
