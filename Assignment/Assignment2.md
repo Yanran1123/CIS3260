@@ -7,15 +7,22 @@
 
 
 
-**The problem to address in this assignment: Identify all distinct prime numbers in assignment2.csv.**
+**The problem to address in this assignment: Identify all prime numbers in assignment2.csv.**
 
 Now, let us break the problem into 4 tasks.
-+ Task 1: Download and read [assignment2.csv](https://www.dropbox.com/s/p61p387br7hts16/assignment2.csv?dl=0) into your computer  [Hint: see demo code in lecture 2]
-+ Task 2: Extract all numbers [Hint: see demo code in lecture 2]
++ Task 1: Download and read [assignment2.csv](https://www.dropbox.com/s/p61p387br7hts16/assignment2.csv?dl=0) into your computer  [Hint: see demo code in lecture 3]
++ Task 2: Extract all numbers [Hint: see demo code in lecture 3 and the [reference code]()]
 + Task 3: Identify if a number is a prime number [Hint: see assignment 1]
-+ Task 4: Display all distinct prime numbers [Hint: see assignment 1]
++ Task 4: Display all prime numbers [Hint: see assignment 1]
 
-**Please submit your source code (assignment.java) to the Dropbox in iCollege. Students may also want to submit a Word document that elaborates any challenge they face while finishing the assignment and how they overcome the challenge.**
+
+
+**Please submit the following documents to  the Dropbox in iCollege:**
++ Document 1 includes your source code (assignment2.java)
++ Document 2 includes the two screenshots of your console:
+  + All extracted numbers in Task2 \
+  + All prime numbers in Task4 
++ Document 3 (optional): You may also want to submit a Word document that elaborates any challenge they face while finishing the assignment and how they overcome the challenge.**
 
 + Task 1 [**5 points**]
 + Task 2 [**40 points**]
