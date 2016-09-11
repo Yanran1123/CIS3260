@@ -18,7 +18,7 @@ Now, let us break the problem into 4 tasks.
   + The problem the code is designed to solve
   + Programmer information (Name, email, etc.)
   + Date
-  + Comments for each code line.
+  + Comments for each code line
 
 
 
