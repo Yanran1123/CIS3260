@@ -119,13 +119,13 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
 | 2       | ~~08.29~~ | [Elementary Programming](Lecture/Lecture2.md)        |[Big Data](Forrest/Big%20Data.md)|  |  |
 |         | ~~09.05~~ | **Labor Day, No Class**       ||                                        |  |
 | 3       | 09.12 | Selections                    || Assignment 2 out. Due 09.17 at 11:55pm |  |
-| 4       | 09.19 | Selections                    || Assignment 3 out. Due 09.24 at 11:55pm |  |
-| 5       | 09.26 | Loops                         || Assignment 4 out. Due 10.01 at 11:55pm |  |
-| 6       | 10.03 | Loops                         || Assignment 5 out. Due 10.08 at 11:55pm |  |
+| 4       | 09.19 | Selections                    || |  |
+| 5       | 09.26 | Loops                         || Assignment 3 out. Due 10.01 at 11:55pm |  |
+| 6       | 10.03 | Loops                         ||  |  |
 |         | 10.10 | ***Midterm Exam***            ||                                        |  |
-| 7       | 10.17 | Methods                       || Assignment 6 out. Due 10.22 at 11:55pm |  |
+| 7       | 10.17 | Methods                       || Assignment 4 out. Due 10.22 at 11:55pm |  |
 | 8       | 10.24 | Methods                       ||                                        | Project Module 1 out. Due 10.29 at 11:55pm  |
-| 9       | 10.31 | Single Dimensional Arrays     || Assignment 7 out. Due 11.05 at 11:55pm |  |
+| 9       | 10.31 | Single Dimensional Arrays     || Assignment 5 out. Due 11.05 at 11:55pm |  |
 | 10      | 11.07 | Single Dimensional Arrays     ||                                        | Project Module 2 out. Due 11.12 at 11:55pm |
 | 11      | 11.14 | Multidimentionsional Arrays   ||                                        | Project Module 3 out. Due 11.19 at 11:55pm |
 |         | 11.21 | **Thanksgiving Break, No Class**  ||                                        |  |
