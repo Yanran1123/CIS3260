@@ -27,6 +27,6 @@ Now, let us break the problem into 4 tasks.
 + Document 2 includes two screenshots of your console:
   + All extracted numbers in Task 2
   + All prime numbers in Task 4 
-+ Document 3 (optional): You may also want to submit a Word document that elaborates any challenge they face while finishing the assignment and how they overcome the challenge.**
++ Document 3 (optional): You may also want to submit a Word document that elaborates any challenge they face while finishing the assignment and how they overcome the challenge.
 
 
