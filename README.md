@@ -111,7 +111,7 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
 
 ### 5. Schedule
 
- + **October 11 is the midpoint of the Fall 2016 semester and the last day to withdraw the class.**
+ + **October 11 is the midpoint of the Fall 2016 semester and the last day to withdraw the course.**
 
 | Lecture | Date  | Lecture Topic                 |See The Forest Beyond The Trees|  Assignment     | Project |
 |:-------:|:-----:| :----------------------------:|:-:|:--------------------------------------:|:-------:|
