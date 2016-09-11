@@ -3,7 +3,7 @@
 + [Slides](https://www.dropbox.com/s/pz65reb028r04pv/Lecture%201.pdf?dl=0)
 
 
-**Checklist 8.30-9.11**
+**Checklist 8.23-8.28**
 + Review lecture 1
 + Lab session
 + Office hour
