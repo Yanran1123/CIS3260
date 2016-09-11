@@ -20,7 +20,7 @@ Now, let us break the problem into 4 tasks.
 **Please submit the following documents to  the Dropbox in iCollege:**
 + Document 1 includes your source code (assignment2.java)
 + Document 2 includes the two screenshots of your console:
-  + All extracted numbers in Task2 \
+  + All extracted numbers in Task2
   + All prime numbers in Task4 
 + Document 3 (optional): You may also want to submit a Word document that elaborates any challenge they face while finishing the assignment and how they overcome the challenge.**
 
