@@ -1,11 +1,11 @@
 #### Lecture 3
 
-+ [Demo Code and Data]()
++ [Demo Code and Data](https://www.dropbox.com/sh/arbsqv6oinu76cf/AABpM8vTJvA_KN9dWvDS0Ycma?dl=0)
 
 
-**Checklist 8.30-9.11**
+**Checklist 9.12-9.18**
 + See the forest beyond trees: Natural Language Processing
-+ Review lecture 2
++ Review lecture 3
 + Lab session
 + Office hour
 + Lecure 4 prep
