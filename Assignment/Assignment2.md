@@ -3,7 +3,7 @@
 **Instructor's Comments:** 
 
 + The assignment is designed to develop stduents' capabilities to 
-  + Creatively recombine different code blocks (i.e., prime number code and text processing code)
+  + Creatively recombine different code blocks (e.g., prime number code and text processing code)
   + Manipulate text using Regular Expression.
 + Students may want to seek help from lab session, textbook, office hour, and online learning resources outlined in the syllabus.
 
