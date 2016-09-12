@@ -12,10 +12,10 @@
 **The problem to address in this assignment: Identify all prime numbers in assignment2.csv.**
 
 Now, let us break the problem into 4 tasks.
-+ Task 1 [**5 points**]: Download and read [assignment2.csv](https://www.dropbox.com/s/p61p387br7hts16/assignment2.csv?dl=0) into your computer  [Hint: see demo code in lecture 3]
-+ Task 2 [**40 points**]: Extract all numbers and display 5 numbers per line [Hint: see assignment 1, demo code in lecture 3, and the [reference code](https://www.dropbox.com/s/9zvhqcdv82ciopp/Reference%20Code.java?dl=0)]
-+ Task 3 [**40 points**]: Identify if a number is a prime number [Hint: see assignment 1]
-+ Task 4 [**5 points**]: Display all prime numbers in one line [Hint: see assignment 1]
++ Task 1 [**5 points**]: Download and read [assignment2.csv](https://www.dropbox.com/s/p61p387br7hts16/assignment2.csv?dl=0) into your computer.  [Hint: see demo code in lecture 3]
++ Task 2 [**40 points**]: Extract all numbers and display 5 numbers per line. [Hint: see assignment 1, demo code in lecture 3, and the [reference code](https://www.dropbox.com/s/9zvhqcdv82ciopp/Reference%20Code.java?dl=0)]
++ Task 3 [**40 points**]: For all the numbers extracted in Task 2, identify all prime numbers. [Hint: see assignment 1]
++ Task 4 [**5 points**]: Display all prime numbers in one line. [Hint: see assignment 1]
 + Code Documention [**10 points**]: The documentation should include
   + The problem the code is designed to solve
   + Programmer information (Name, email, etc.)
