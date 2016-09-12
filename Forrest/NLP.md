@@ -1,6 +1,6 @@
 #### Natural Language Processing
 
- + [What is Natural Language pProcessing?](https://www.youtube.com/watch?v=nfoudtpBV68)
+ + [What is Natural Language Processing?](https://www.youtube.com/watch?v=nfoudtpBV68)
  + [Natural Language Processing' Definition in Wikipedia](https://en.wikipedia.org/wiki/Natural_language_processing)
  + [Unstructured Data](https://en.wikipedia.org/wiki/Unstructured_data)
 
