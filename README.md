@@ -118,7 +118,7 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
 | 1       | ~~08.22~~ | [Introduction](Lecture/Lecture1.md)                  || [Assignment 1 out](Assignment/Assignment1.md). Due 08.27 at 11:55pm |  |
 | 2       | ~~08.29~~ | [Elementary Programming](Lecture/Lecture2.md)        |[Big Data](Forrest/Big%20Data.md)|  |  |
 |         | ~~09.05~~ | **Labor Day, No Class**       ||                                        |  |
-| 3       | 09.12 | Selections                    || Assignment 2 out. Due 09.17 at 11:55pm |  |
+| 3       | 09.12 | [Selections](Lecture/Lecture3.md)                    || [Assignment 2 out](Assignment/Assignment2.md). Due 09.17 at 11:55pm |  |
 | 4       | 09.19 | Selections                    || |  |
 | 5       | 09.26 | Loops                         || Assignment 3 out. Due 10.01 at 11:55pm |  |
 | 6       | 10.03 | Loops                         ||  |  |
