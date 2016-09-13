@@ -4,7 +4,7 @@
 
 + The assignment is designed to develop stduents' capabilities to 
   + Creatively recombine different code blocks (e.g., prime number code and text processing code)
-  + Manipulate text using Regular Expression.
+  + Manipulate text using [Regular Expression](https://github.com/zhitaoyin/CIS3260/blob/master/Lecture/Lecture3.md).
 + Students may want to seek help from lab session, textbook, office hour, and online learning resources outlined in the syllabus.
 
 
