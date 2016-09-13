@@ -1,5 +1,5 @@
 #### Lecture 3
-
++ [Slides](https://www.dropbox.com/s/kods5o8gly849e8/Lecture%203.pdf?dl=0)
 + [Demo Code and Data](https://www.dropbox.com/sh/arbsqv6oinu76cf/AABpM8vTJvA_KN9dWvDS0Ycma?dl=0)
 
 
