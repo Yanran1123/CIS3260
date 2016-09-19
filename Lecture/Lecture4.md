@@ -1,15 +1,16 @@
-#### Lecture 3
-+ [Slides](https://www.dropbox.com/s/kods5o8gly849e8/Lecture%203.pdf?dl=0)
-+ [Demo Code and Data](https://www.dropbox.com/sh/arbsqv6oinu76cf/AABpM8vTJvA_KN9dWvDS0Ycma?dl=0)
+#### Lecture 4
++ [Slides, will be uploaded after the lecture]()
++ [Exercise Code]()
++ [Assignment 2 Solution, will be uploaded after the lecture]()
 
 
-**Checklist 9.12-9.18**
-+ See the forest beyond trees: Natural Language Processing
-+ Review lecture 3
+**Checklist 9.20-9.25**
++ Review lecture 4
++ Review assignment 2
 + Lab session
 + Office hour
-+ Lecure 4 prep
- + Textbook Chapter 3 (3.13), Chapter 4 (4.4), Chapter 12
++ Lecure 5 prep
+ + Textbook Chapter 4 (4.4), Chapter 5
  + Regular Expression
 
 **Regular Expression Resources**
