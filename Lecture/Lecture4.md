@@ -1,7 +1,7 @@
 #### Lecture 4
-+ [Slides, will be uploaded after the lecture]()
-+ [Exercise Code]()
-+ [Assignment 2 Solution, will be uploaded after the lecture]()
++ Slides, will be uploaded after the lecture
++ [Exercise Code](https://www.dropbox.com/s/9dxp6r0m4w09ox0/Exercise.java?dl=0)
++ Assignment 2 Solution, will be uploaded after the lecture
 
 
 **Checklist 9.20-9.25**
