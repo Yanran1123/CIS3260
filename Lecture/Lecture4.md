@@ -1,10 +1,9 @@
 #### Lecture 4
 + Slides, will be uploaded after the lecture
-+ [Exercise Code](https://www.dropbox.com/s/9dxp6r0m4w09ox0/Exercise.java?dl=0)
 + Assignment 2 Solution
   + Task 1-2
   + Task 3-4
-
++ [Exercise Code](https://www.dropbox.com/s/9dxp6r0m4w09ox0/Exercise.java?dl=0)
 
 **Checklist 9.20-9.25**
 + Review lecture 4
