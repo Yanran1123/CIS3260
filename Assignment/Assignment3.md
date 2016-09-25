@@ -18,7 +18,7 @@ Now, let us break the problem into 5 tasks.
 + Task 4 [**5 points**]: Extract all numbers in assignment3_2.csv and display 5 numbers per line.
 + Task 5 [**10*7=70 points**]: For each number in assignment3_2.csv, calculate how many times it appears in assignment3_1.csv and display your results in the console following the format below.  **The output below is not the answer.**
 
-<img src="https://github.com/zhitaoyin/CIS3260/blob/master/Pic/assignment3.png" alt="paths" style="width: 1px;"/>
+<img src="https://github.com/zhitaoyin/CIS3260/blob/master/Pic/assignment3output.png" alt="paths" style="width: 1px;"/>
 + Code Documention [**10 points**]: The documentation should include
   + The problem the code is designed to solve
   + Programmer information (Name, email, etc.)
