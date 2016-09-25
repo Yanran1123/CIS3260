@@ -9,7 +9,7 @@
 
 
 
-**The problem to address in this assignment: Identify all prime numbers in assignment2.csv.**
+**The problem to address in this assignment: Number frequency calculation**
 
 Now, let us break the problem into 5 tasks.
 + Task 1 [**5 points**]: Download and read [assignment3_1.csv] () into your computer.
