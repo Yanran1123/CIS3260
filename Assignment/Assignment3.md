@@ -23,7 +23,7 @@ Now, let us break the problem into 5 tasks.
   + The problem the code is designed to solve
   + Programmer information (Name, email, etc.)
   + Date
-  + Comments for each code line
+  + Comments for each line of your code
 
 
 **Please submit the following documents to  the Dropbox in iCollege:**
