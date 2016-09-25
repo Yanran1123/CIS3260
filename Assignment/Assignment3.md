@@ -17,7 +17,7 @@ Now, let us break the problem into 5 tasks.
 + Task 3 [**5 points**]: Download and read [assignment3_2.csv] () into your computer.
 + Task 4 [**5 points**]: Extract all numbers in assignment3_2.csv and display 5 numbers per line.
 + Task 5 [**70 points**]: For each number in assignment3_2.csv, calculate how many times it appears in assignment3_1.csv and display your results in the consule following the format below.  
-<img src="Pic/Paths.PNG" alt="paths" style="width: 1px;"/>
+<img src="Pic/assignment3.png" alt="paths" style="width: 1px;"/>
 + Code Documention [**10 points**]: The documentation should include
   + The problem the code is designed to solve
   + Programmer information (Name, email, etc.)
