@@ -27,7 +27,7 @@ Now, let us break the problem into 5 tasks.
 
 
 **Please submit the following documents to  the Dropbox in iCollege:**
-+ Document 1 includes your source code (assignment3.java) [A tutorial of how to locate a Java source code](https://www.dropbox.com/s/422i7tz3zz17ay3/Locate%20a%20Java%20Source%20Code.pdf?dl=0)
++ Document 1 includes your source code (assignment3.java) [[A tutorial of how to locate a Java source code]](https://www.dropbox.com/s/422i7tz3zz17ay3/Locate%20a%20Java%20Source%20Code.pdf?dl=0)
 + Document 2 includes three screenshots of your console:
   + All extracted numbers in Task 2
   + All extracted numbers in Task 4
