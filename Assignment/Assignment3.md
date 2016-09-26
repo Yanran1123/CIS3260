@@ -16,7 +16,7 @@ Now, let us break the problem into 5 tasks.
 + Task 2 [**5 points**]: Extract all numbers in assignment3_1.txt and display 10 numbers per line.
 + Task 3 [**5 points**]: Download and read [assignment3_2.txt] (https://www.dropbox.com/s/vu2zy91ddh6cdvb/assignment3_2.txt?dl=0) into your computer.
 + Task 4 [**5 points**]: Extract all numbers in assignment3_2.txt and display 5 numbers per line.
-+ Task 5 [**10*7=70 points**]: For each number in assignment3_2.txt, calculate how many times it appears in assignment3_1.txt and display your results in the console by following the format below.  **The output below is not the answer.**
++ Task 5 [**7*10=70 points**]: For each number in assignment3_2.txt, calculate how many times it appears in assignment3_1.txt and display your results in the console by following the format below.  **The output below is not the answer.**
 
 <img src="https://github.com/zhitaoyin/CIS3260/blob/master/Pic/assignment3output.png" alt="paths" style="width: 10px;"/>
 + Code Documention [**10 points**]: The documentation should include
