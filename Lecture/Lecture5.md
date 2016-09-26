@@ -2,7 +2,7 @@
 + Slides
 + [Demo Code](https://www.dropbox.com/sh/6iyd2uei3so2h0b/AABHReJ-jvO_3B05I2uDmloua?dl=0)
 
-**Checklist 9.20-9.25**
+**Checklist 9.27-10.2**
 + Review lecture 5
 + Assignment 3
 + Lab session
