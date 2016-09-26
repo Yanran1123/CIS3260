@@ -4,7 +4,7 @@
 
 + The assignment is designed to develop stduents' capabilities to 
   + Creatively recombine different code
-  + Create nested loop statement
+  + Create nested loop statements
 + Students may want to seek help from lab session, textbook, office hour, and online learning resources outlined in the syllabus.
 
 
@@ -12,11 +12,11 @@
 **The problem to address in this assignment: Number frequency calculation**
 
 Now, let us break the problem into 5 tasks.
-+ Task 1 [**5 points**]: Download and read [assignment3_1.csv] () into your computer.
-+ Task 2 [**5 points**]: Extract all numbers in assignment3_1.csv and display 10 numbers per line.
-+ Task 3 [**5 points**]: Download and read [assignment3_2.csv] () into your computer.
-+ Task 4 [**5 points**]: Extract all numbers in assignment3_2.csv and display 5 numbers per line.
-+ Task 5 [**10*7=70 points**]: For each number in assignment3_2.csv, calculate how many times it appears in assignment3_1.csv and display your results in the console following the format below.  **The output below is not the answer.**
++ Task 1 [**5 points**]: Download and read [assignment3_1.txt] (https://www.dropbox.com/s/v9lvx1xw0f2l189/assignment3_1.txt?dl=0) into your computer.
++ Task 2 [**5 points**]: Extract all numbers in assignment3_1.txt and display 10 numbers per line.
++ Task 3 [**5 points**]: Download and read [assignment3_2.txt] (https://www.dropbox.com/s/vu2zy91ddh6cdvb/assignment3_2.txt?dl=0) into your computer.
++ Task 4 [**5 points**]: Extract all numbers in assignment3_2.txt and display 5 numbers per line.
++ Task 5 [**10*7=70 points**]: For each number in assignment3_2.txt, calculate how many times it appears in assignment3_1.txt and display your results in the console by following the format below.  **The output below is not the answer.**
 
 <img src="https://github.com/zhitaoyin/CIS3260/blob/master/Pic/assignment3output.png" alt="paths" style="width: 10px;"/>
 + Code Documention [**10 points**]: The documentation should include
