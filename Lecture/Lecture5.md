@@ -1,5 +1,5 @@
 #### Lecture 5
-+ Slides
++ [Slides](https://www.dropbox.com/s/smangrq7z6hhw1r/Lecture%205.pdf?dl=0)
 + [Demo Code](https://www.dropbox.com/sh/6iyd2uei3so2h0b/AABHReJ-jvO_3B05I2uDmloua?dl=0)
 
 **Checklist 9.27-10.2**
