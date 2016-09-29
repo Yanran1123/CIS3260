@@ -9,8 +9,8 @@
 | ~~08.29 1:00pm - 3:00pm~~ | ~~Is this the course for you?~~ |
 | ~~09.06 1:00pm - 3:00pm~~ | ~~Assignment 1~~ |                  
 | ~~09.12 1:00pm - 3:00pm~~ | ~~Assignment 1~~ |
-| 09.19 1:00pm - 3:00pm | Assignment 2 |      
-| 09.26 1:00pm - 3:00pm | Assignment 2 |         
+| ~~09.19 1:00pm - 3:00pm~~ | ~~Assignment 2~~ |      
+| ~~09.26 1:00pm - 3:00pm~~ |~~~Assignment 2~~ |         
 | 10.03 1:00pm - 3:00pm | Assignment 3  | 
 | 10.11 1:00pm - 4:00pm | Take or drop this course|
 | 10.17 1:00pm - 3:00pm | Midterm Exam | 
