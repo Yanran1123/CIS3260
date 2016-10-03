@@ -121,7 +121,7 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
 | 3       | ~~09.12~~ | [Selections](Lecture/Lecture3.md)                    |[Natural Language Processing](https://github.com/zhitaoyin/CIS3260/blob/master/Forrest/NLP.md)| [Assignment 2 out](Assignment/Assignment2.md). Due 09.17 at 11:55pm |  |
 | 4       | ~~09.19~~ | [Selections](Lecture/Lecture4.md)                    || |  |
 | 5       | ~~09.26~~ | [Loops](Lecture/Lecture5.md)                         || [Assignment 3 out](Assignment/Assignment3.md). Due 10.01 at 11:55pm |  |
-| 6       | 10.03 | Loops                         ||  |  |
+| 6       | 10.03 | [Loops & Midterm Review](Lecture/Lecture6.md)                         ||  |  |
 |         | 10.10 | ***Midterm Exam***            ||                                        |  |
 | 7       | 10.17 | Methods                       || Assignment 4 out. Due 10.22 at 11:55pm |  |
 | 8       | 10.24 | Methods                       ||                                        | Project Module 1 out. Due 10.29 at 11:55pm  |
