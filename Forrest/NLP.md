@@ -4,7 +4,7 @@
  + [Natural Language Processing' Definition in Wikipedia](https://en.wikipedia.org/wiki/Natural_language_processing)
  + [Unstructured Data's Definition in Wikipedia](https://en.wikipedia.org/wiki/Unstructured_data)
 
-**The materials above just give you an overview of big data. You may want to take a look at other online resources (e.g., resaerch reports from consulting firms, research papers, new reports etc.) to discuss the questions below with your classmates.**
+**The materials above just give you an overview of natural language processing. You may want to take a look at other online resources (e.g., resaerch reports from consulting firms, research papers, new reports etc.) to discuss the questions below with your classmates.**
  
  Questions:
  + What are the different aspects of Natural Language Processing?
