@@ -123,11 +123,11 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
 | 5       | ~~09.26~~ | [Loops](Lecture/Lecture5.md)                         || [Assignment 3 out](Assignment/Assignment3.md). Due 10.01 at 11:55pm |  |
 | 6       | 10.03 | [Loops & Midterm Review](Lecture/Lecture6.md)                         ||  |  |
 |         | 10.10 | ***Midterm Exam***            ||                                        |  |
-| 7       | 10.17 | Methods                       || Assignment 4 out. Due 10.22 at 11:55pm |  |
-| 8       | 10.24 | Methods                       ||                                        | Project Module 1 out. Due 10.29 at 11:55pm  |
-| 9       | 10.31 | Single Dimensional Arrays     || Assignment 5 out. Due 11.05 at 11:55pm |  |
-| 10      | 11.07 | Single Dimensional Arrays     ||                                        | Project Module 2 out. Due 11.12 at 11:55pm |
-| 11      | 11.14 | Multidimentionsional Arrays   ||                                        | Project Module 3 out. Due 11.19 at 11:55pm |
+| 7       | 10.17 | Midterm Exam Review                      ||  |  |
+| 8       | 10.24 | Bonus Test & Methods                       ||                                        |   |
+| 9       | 10.31 | Methods & Single Dimensional Arrays     || Assignment 4 out. Due 11.05 at 11:55pm |  |
+| 10      | 11.07 | Single Dimensional Arrays     ||                                        | Project out. Due 11.20 at 11:55pm |
+| 11      | 11.14 | Multidimentionsional Arrays   ||                                        |  |
 |         | 11.21 | **Thanksgiving Break, No Class**  ||                                        |  |
 | 12      | 11.28 | Objects & Classes and Wrap-up ||                                        |  |
 |         | 12.05 | ***Final Exam***                    ||                                        |  
