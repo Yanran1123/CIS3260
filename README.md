@@ -129,7 +129,7 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
 | 11      | 11.14 | Multidimentionsional Arrays   ||                                        |  |
 |         | 11.21 | **Thanksgiving Break, No Class**  ||                                        |  |
 | 12      | 11.28 | Objects & Classes and Wrap-up ||                                        |  |
-|         | 12.05 | **Final Exam** (Study Guide will be available on 11.27)                    ||                                        |  
+|         | 12.05 | **Final Exam** (Study Guide)                    ||                                        |  
 
 
 
