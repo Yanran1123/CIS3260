@@ -93,7 +93,7 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
   + Proof of reasons must be scanned and sent to the instructor ahead of time (unless absence was due to a legitimate emergency, in which case scanned proof must be sent afterward).
  + Exams will be closed-book.
   + No cheat(note) sheet is allowed to use during exams.
-  + No electronic device (e.g., cellphone, laptop) is allowed to use during exams.
+  + No electronic device (e.g., cellphone, laptop, calculator) is allowed to use during exams.
  + Bathroom Break (CIS Department Policy)
   + A bathroom break is allowed ***before*** the start of the exam.
   + Each student must come forward to request bathroom break and leave instructor his/her exam and cell phone(s) during the exam.
