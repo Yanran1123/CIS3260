@@ -121,7 +121,7 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
 | 4       | ~~09.19~~ | [Selections](Lecture/Lecture4.md)                    || |  |
 | 5       | ~~09.26~~ | [Loops](Lecture/Lecture5.md)                         || [Assignment 3 out](Assignment/Assignment3.md). Due 10.01 at 11:55pm |  |
 | 6       | ~~10.03~~ | [Loops & Midterm Review](Lecture/Lecture6.md)                         ||  |  |
-|         | ~~10.10~~ | ***Midterm Exam***            ||                                        |  |
+|         | ~~10.10~~ | **Midterm Exam**            ||                                        |  |
 | 7       | 10.17 | Midterm Exam Review                      ||  |  |
 | 8       | 10.24 | Bonus Test & Methods                       ||                                        |   |
 | 9       | 10.31 | Methods & Single Dimensional Arrays     || Assignment 4 out. Due 11.05 at 11:55pm |  |
@@ -129,7 +129,7 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
 | 11      | 11.14 | Multidimentionsional Arrays   ||                                        |  |
 |         | 11.21 | **Thanksgiving Break, No Class**  ||                                        |  |
 | 12      | 11.28 | Objects & Classes and Wrap-up ||                                        |  |
-|         | 12.05 | ***Final Exam***                    ||                                        |  
+|         | 12.05 | **Final Exam** (Study Guide will be available on 11.27)                    ||                                        |  
 
 
 
