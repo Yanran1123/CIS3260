@@ -8,7 +8,7 @@
 + Students may want to seek help from lab session, textbook, office hour, and online learning resources outlined in the syllabus.
 
 
-+ Question 1: Here is the [code](https://www.dropbox.com/s/mkp5mmcl12i6ic2/Code.pdf?dl=0) to display prime numbers. [Hint](https://www.dropbox.com/s/qefa76sps9avdxp/Ref1.pdf?dl=0)
++ **Question 1:** Here is the [code](https://www.dropbox.com/s/mkp5mmcl12i6ic2/Code.pdf?dl=0) to display prime numbers. [Hint](https://www.dropbox.com/s/qefa76sps9avdxp/Ref1.pdf?dl=0)
 
  + Task 1: [**15 points**] Create a method - **isPrime(int candidate)** to check whether a number is prime. **candidate** is an integer formal parameter. It represents the number to be checked.
  
@@ -17,7 +17,7 @@
  + Task 3: [**10 points**] In the main method, display printPrimeNumbers(16,4)
  
 
-+ Qustion 2: Here is a list of numbers 5,6,8,3,4,2,1,9,7. [Hint](https://www.dropbox.com/s/ppfo834ix5l6u4v/Ref2.pdf?dl=0)
++ **Qustion 2:** Here is a list of numbers 5,6,8,3,4,2,1,9,7. [Hint](https://www.dropbox.com/s/ppfo834ix5l6u4v/Ref2.pdf?dl=0)
 
  + Task 1: [**10 points**] Create an array - **arrayA** to store the numbers by the same order.
  
@@ -26,10 +26,10 @@
  + Task 3: [**15 points**] Display the [median](https://en.wikipedia.org/wiki/Median) of the numbers.
 
 
-+ Bonus Question: [**10 points**]: Use [buble sorting approach](https://en.wikipedia.org/wiki/Bubble_sort) to sort the numbers in **arrayA** in ascending order. Display your ascending sorting result.
++ **Bonus Question:** [**10 points**]: Use [buble sorting approach](https://en.wikipedia.org/wiki/Bubble_sort) to sort the numbers in **arrayA** in ascending order. Display your ascending sorting result.
 
 
-+ Code Documention [**10 points**]: The documentation should include
++ **Code Documention** [**10 points**]: The documentation should include
   + The problem the code is designed to solve
   + Programmer information (Name, email, etc.)
   + Date
