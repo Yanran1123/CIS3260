@@ -18,11 +18,16 @@
  
 
 + Qustion 2: Here is a list of numbers 5,6,8,3,4,2,1,9,7. [Hint](https://www.dropbox.com/s/ppfo834ix5l6u4v/Ref2.pdf?dl=0)
+
  + Task 1: [**10 points**] Create an array - **arrayA** to store the numbers by the same order.
+ 
  + Task 2: [**20 points**] Use selection sorting approach to sort the numbers in **arrayA** in ascending order. Display your ascending sorting result.
+ 
  + Task 3: [**15 points**] Display the [median](https://en.wikipedia.org/wiki/Median) of the numbers.
 
+
 + Bonus Question: [**10 points**]: Use [buble sorting approach](https://en.wikipedia.org/wiki/Bubble_sort) to sort the numbers in **arrayA** in ascending order. Display your ascending sorting result.
+
 
 + Code Documention [**10 points**]: The documentation should include
   + The problem the code is designed to solve
