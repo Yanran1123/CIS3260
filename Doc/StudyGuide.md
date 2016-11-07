@@ -1,22 +1,26 @@
 ##Final Exam Study Guide (Incomplete, work-in-progress)
 
 ### Final Exam Format
-**All the questions in the fianl exam will be based on demo code in all lectures and assigntment1-4. However, numbers and text in the demo code and assignments will be revised. For example, (1) int i=10 -> int i=15; (2) "gsu".length() -> "abcdefg/length()"**
+
+**All the questions in the fianl exam will be based on the code in all lectures(slides and demo) and assigntment1-4. Number and text in the  code will be revised. For example, (1) int i=10 -> int i=15; (2) "gsu".length() -> "abcdefg/length()"**
+
 + Part 1: Bug Identification and Correction
  + Example 1 - **see question 1 in the midterm exam**
  + Example 2 - **see question 1 in the bonus test**
  + Common programming error **see slides in lecture 7 **
   + Syntax Errors
   + Logic Errors 
+
 + Part 2: Program Output
  + Examples - **see question 2 in the midterm exam and bonus test**
  + Students are highly recommended to use a table to organize the calculation process. **see solutions of the midterm exam and bonus test as examples.**
+ 
 + Part 3: Complete program
  + Examples - **see question 3 in the midterm exam and bonus test**
- + Studdents should fully understand the underlying logic of each demo code in all lectures and assignment1-4.
+ + Studdents should fully understand the underlying logic of the code in all lectures and assignment1-4.
 
 
-**Below are the content that will be covered in the final exam.**
+**Below are the knowledge base that will be covered in the final exam.**
 
 #### Data Type
  + Number
@@ -73,3 +77,5 @@
    + how to define loop continuation condition
  + The similarities and differences of three types of loop statements
  + Nested loop statement
+
+#### work-in-progress
