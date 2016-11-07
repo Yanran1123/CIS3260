@@ -13,9 +13,9 @@
 | ~~09.26 1:00pm - 3:00pm~~ |~~~Assignment 2~~ |         
 | ~~10.03 1:00pm - 3:00pm~~ | ~~Assignment 3~~  | 
 | ~~10.11 1:00pm - 3:00pm~~ | ~~Midterm Feedback~~|
-| 10.17 1:00pm - 3:00pm | Midterm Exam | 
-| 10.24 1:00pm - 3:00pm | Midterm Exam |    
-| 10.31 1:00pm - 3:00pm |  | 
-| 11.07 1:00pm - 3:00pm | Assignment 4 | 
+| ~~10.17 1:00pm - 3:00pm~~ | ~~Midterm Exam~~ | 
+| ~~10.24 1:00pm - 3:00pm~~ | ~~Midterm Exam~~ |    
+| ~~10.31 1:00pm - 3:00pm~~ |  | 
+| ~~11.07 1:00pm - 3:00pm~~ | ~~Assignment 4~~ | 
 | 11.14 1:00pm - 3:00pm | Project | 
 | 11.28 1:00pm - 3:00pm | Project |
