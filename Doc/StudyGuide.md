@@ -58,7 +58,8 @@
  + if else statement
  + nested if else statement
 
-#### Loop **see sldies and demo code in lecture 5, lecture 6 and assignment 3**
+#### Loop 
+**see sldies and demo code in lecture 5, lecture 6 and assignment 3**
  + for loop
   + how to define initial action
   + how to define loop continuation condition
