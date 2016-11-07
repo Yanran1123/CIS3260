@@ -47,7 +47,8 @@
   + substring() e.g., "abcdefg".substring(1,3)
   + indexOf() e.g., "abcdefg".indexOf("x")
   + replaceAll(,) e.g., "abcdefg".replaceAll("b","B")
-  + lowercase() e.g., "ABCVEdfwe".lowercase()
+  + 
+  case() e.g., "ABCVEdfwe".toLowerCase()
  + Logic
   + && e.g., while((s>6)&&(d==2))
   + || e.g., if((i>3)||(d<2))
