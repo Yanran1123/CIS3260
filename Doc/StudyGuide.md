@@ -16,6 +16,8 @@
  + Studdents should fully understand the underlying logic of each demo code in all lectures and assignment1-4.
 
 
+**Below are the content that will be covered in the final exam.**
+
 ### Data Type
  + Number
   + byte
