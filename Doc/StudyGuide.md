@@ -78,4 +78,6 @@
  + The similarities and differences of three types of loop statements
  + Nested loop statement
 
-#### work-in-progress more content to be added in the next few weeks.
+work-in-progress more content to be added in the next few weeks.
+#### Method
+#### Array
