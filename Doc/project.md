@@ -7,13 +7,17 @@
   + sentiment analysis
 
 Now, let us break the problem into 5 parts.
-+ Task 1 [**5 points**]: Download and read [moviereview.txt] () into your computer.
++ Task 1 [**5 points**]: Download and read [moviereview.txt] (https://www.dropbox.com/s/41fo144dh7jhyt1/moviereview.txt?dl=0) into your computer.
 + Task 2 [**5 points**]: Extract all words in moviereview.txt.
 + Task 3 [**5 points**]: Lowercase all words.
-+ Task 4 [**5 points**]: Extract all numbers in assignment3_2.txt and display 5 numbers per line.
-+ Task 5 [**7*10=70 points**]: For each number in assignment3_2.txt, calculate how many times it appears in assignment3_1.txt and display your results in the console by following the format below.  **The output below is not the answer.**
++ Task 4 [**20 points**]: Calculate word frequence (i.e., how many times each word apprears in moviewreview.txt)
++ Task 5 [**10 points**]: Based on the word frequence, display the top 10 words and their frequence.
++ Task 6 [**5 points**]: Download and read [positive.txt] (https://www.dropbox.com/s/e0cn3jbvhrlv7lk/positive.txt?dl=0) into your computer.
++ Task 7 [**5 points**]: Extract all words in positive.txt.
++ Task 8 [**5 points**]: Lowercase all words.
++ Task 9 [**20 points**]: Calculate word frequence (i.e., how many times each word in positive.txt appears in moviereview.txt)
++ Task 10 [**10 points**]: Based on the word frequence, display the top 10 words whose frequence is greater than 0.
 
-<img src="https://github.com/zhitaoyin/CIS3260/blob/master/Pic/assignment3output.png" alt="paths" style="width: 10px;"/>
 + Code Documention [**10 points**]: The documentation should include
   + The problem the code is designed to solve
   + Programmer information (Name, email, etc.)
@@ -22,11 +26,17 @@ Now, let us break the problem into 5 parts.
 
 
 **Please submit the following documents to  the Dropbox in iCollege:**
-+ Document 1 includes your source code (assignment3.java) [[A tutorial of how to locate a Java source code]](https://www.dropbox.com/s/422i7tz3zz17ay3/Locate%20a%20Java%20Source%20Code.pdf?dl=0)
++ Document 1 includes your source code (project.java) [[A tutorial of how to locate a Java source code]](https://www.dropbox.com/s/422i7tz3zz17ay3/Locate%20a%20Java%20Source%20Code.pdf?dl=0)
 + Document 2 includes three screenshots of your console:
-  + All extracted numbers in Task 2
-  + All extracted numbers in Task 4
-  + Your output in Task 5
+  + Task 5
+  + Task 10
 + Document 3 (optional): You may also want to submit a Word document that elaborates any challenge you face while finishing the assignment and how you overcome the challenge.
 
+**Hint**
++ See the solution of assignment 3 for task 1, 2, 6, 7
++ See Lecture 5 Demo 3 for task 3, 8
++ See Assignment 3, Lecture 10 Demo 1 for task 4, 5, 9,10
++ Other uesful resources
+ + [Get an element in an arraylist](http://stackoverflow.com/questions/7894686/how-to-get-to-a-particular-element-in-a-list-in-java)
+ + [Word Frequency](http://stackoverflow.com/questions/5211194/count-occurences-of-words-in-arraylist)
 
