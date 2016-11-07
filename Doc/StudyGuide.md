@@ -1,4 +1,4 @@
-##Final Exam Study Guide (Incomplete)
+##Final Exam Study Guide (Incomplete, work-in-progress)
 
 ### Final Exam Format
 **All the questions in the fianl exam will be based on demo code in all lectures and assigntment1-4. However, numbers and text in the demo code and assignments will be revised. For example, (1) int i=10 -> int i=15; (2) "gsu".length() -> "abcdefg/length()"**
