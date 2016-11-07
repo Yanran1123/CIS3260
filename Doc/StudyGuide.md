@@ -5,7 +5,7 @@
 + Part 1: Bug Identification and Correction
  + Example 1 - **see question 1 in the midterm exam**
  + Example 2 - **see question 1 in the bonus test**
- + Common programming error **Lecture 7 slides**
+ + Common programming error **see slides in lecture 7 **
   + Syntax Errors
   + Logic Errors 
 + Part 2: Program Output
