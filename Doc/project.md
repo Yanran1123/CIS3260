@@ -13,15 +13,20 @@ Now, let us break the problem into 5 parts.
 + Task 4 [**15 points**]: Calculate word frequence (i.e., how many times each word apprears in moviewreview.txt)
 + Task 5 [**15 points**]: Based on the word frequence you calculate in Task4, sort the words in a descending order and display the top 10 words and their frequence. **Your output should follow the format below**
 
-<img src="https://github.com/zhitaoyin/CIS3260/blob/master/Pic/p1.png" alt="paths" style="width: 10px;"/>
+
 
 + Task 6 [**5 points**]: Download and read [positive.txt] (https://www.dropbox.com/s/e0cn3jbvhrlv7lk/positive.txt?dl=0) into your computer.
 + Task 7 [**5 points**]: Extract all words in positive.txt.
 + Task 8 [**5 points**]: Lowercase all words.
 + Task 9 [**15 points**]: Calculate word frequence (i.e., how many times each word in positive.txt appears in moviereview.txt)
 + Task 10 [**15 points**]: Based on the word frequence you calculate in Task 9, sort the words in a descending order and display the words with frequence greater than 5. **Your output should follow the format below**
-
-<img src="https://github.com/zhitaoyin/CIS3260/blob/master/Pic/p2.png" alt="paths" style="width: 10px;"/>
+```
+and appears 100 times
+film appears 40 times
+that appears 34 times
+is appear 33 times
+are appears 30 times
+```
 
 + Code Documention [**10 points**]: The documentation should include
   + The problem the code is designed to solve
