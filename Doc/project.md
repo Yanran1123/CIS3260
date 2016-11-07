@@ -14,6 +14,7 @@ Now, let us break the problem into 5 parts.
 + Task 5 [**15 points**]: Based on the word frequence you calculate in Task4, sort the words in a descending order and display the top 5 words and their frequence in the console by following the format below.  **The output below is not the answer.**
 ```
 Top 5 words in moviereview.txt, organized in a descending order:
+
 and appears 100 times
 film appears 40 times
 that appears 34 times
@@ -28,6 +29,7 @@ are appears 30 times
 + Task 10 [**15 points**]: Based on the word frequence you calculate in Task 9, sort the words in a descending order and display the words with frequence greater than 5 in the console by following the format below.  **The output below is not the answer.**
 ```
 Words in positive.txt that appear greater than 5 times in moviereview.txt, organized in a descending order:
+
 satisfy appears 10 times
 magical appears 9 times
 great appears 7 times
@@ -49,11 +51,7 @@ particular appears 6 times
   + Task 10
 + Document 3 (optional): You may also want to submit a Word document that elaborates any challenge you face while finishing the assignment and how you overcome the challenge.
 
-**Hint**
+**Hints**
 + See the solution of assignment 3 for task 1, 2, 6, 7
 + See Lecture 5 Demo 3 for task 3, 8
 + See Assignment 3, Lecture 10 Demo 1 for task 4, 5, 9,10
-+ Other uesful resources
- + [Get an element in an arraylist](http://stackoverflow.com/questions/7894686/how-to-get-to-a-particular-element-in-a-list-in-java)
- + [Word Frequency](http://stackoverflow.com/questions/5211194/count-occurences-of-words-in-arraylist)
-
