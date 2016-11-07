@@ -6,7 +6,7 @@
   + information extraction
   + sentiment analysis
 
-Now, let us break the problem into 5 parts.
+Now, let us break the problem into 10 parts.
 + Task 1 [**5 points**]: Download and read [moviereview.txt] (https://www.dropbox.com/s/41fo144dh7jhyt1/moviereview.txt?dl=0) into your computer.
 + Task 2 [**5 points**]: Extract all words in moviereview.txt.
 + Task 3 [**5 points**]: Lowercase all words.
