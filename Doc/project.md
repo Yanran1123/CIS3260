@@ -11,7 +11,7 @@ Now, let us break the problem into 5 parts.
 + Task 2 [**5 points**]: Extract all words in moviereview.txt.
 + Task 3 [**5 points**]: Lowercase all words.
 + Task 4 [**15 points**]: Calculate word frequence (i.e., how many times each word apprears in moviewreview.txt)
-+ Task 5 [**15 points**]: Based on the word frequence you calculate in Task4, sort the words in a descending order and display the top 5 words and their frequence. **Your output should follow the format below**
++ Task 5 [**15 points**]: Based on the word frequence you calculate in Task4, sort the words in a descending order and display the top 5 words and their frequence in the console by following the format below.  **The output below is not the answer.**
 ```
 Top 5 words in moviereview.txt, organized in a descending order:
 and appears 100 times
@@ -25,7 +25,7 @@ are appears 30 times
 + Task 7 [**5 points**]: Extract all words in positive.txt.
 + Task 8 [**5 points**]: Lowercase all words.
 + Task 9 [**15 points**]: Calculate word frequence (i.e., how many times each word in positive.txt appears in moviereview.txt)
-+ Task 10 [**15 points**]: Based on the word frequence you calculate in Task 9, sort the words in a descending order and display the words with frequence greater than 5. **Your output should follow the format below**
++ Task 10 [**15 points**]: Based on the word frequence you calculate in Task 9, sort the words in a descending order and display the words with frequence greater than 5 in the console by following the format below.  **The output below is not the answer.**
 ```
 Words in positive.txt that appear greater than 5 times in moviereview.txt, organized in a descending order:
 satisfy appears 10 times
