@@ -1,7 +1,7 @@
 ##Final Exam Study Guide
 
 ### Final Exam Format
-**All the programs in the fianl exam will be based on demo code in all lectures and assigntment1-4. However, the numbers in the program will be revised. For example, int i=10 -> int i=15**
+**All the questions in the fianl exam will be based on demo code in all lectures and assigntment1-4. However, numbers and text in the demo code and assignments will be revised. For example, (1) int i=10 -> int i=15; (2) "gsu".length() -> "abcdefg/length()"**
 + Part 1: Bug Identification and Correction
  + Example 1 - **see question 1 in the midterm exam**
  + Example 2 - **see question 1 in the bonus test**
@@ -18,7 +18,7 @@
 
 **Below are the content that will be covered in the final exam.**
 
-### Data Type
+#### Data Type
  + Number
   + byte
   + short
@@ -31,7 +31,7 @@
  + Logic
   + boolean
 
-### Data Operation
+#### Data Operation
  + Number
   + + e.g., k=k+2
   + - e.g., k=k-1
@@ -47,6 +47,7 @@
   + substring() e.g., "abcdefg".substring(1,3)
   + indexOf() e.g., "abcdefg".indexOf("x")
   + replaceAll(,) e.g., "abcdefg".replaceAll("b","B")
+  + lowercase() e.g., "ABCVEdfwe".lowercase()
  + Logic
   + && e.g., while((s>6)&&(d==2))
   + || e.g., if((i>3)||(d<2))
