@@ -52,3 +52,22 @@
   + && e.g., while((s>6)&&(d==2))
   + || e.g., if((i>3)||(d<2))
   + ! e.g., if(!(i>3))
+ 
+#### Selection
+ + if statement
+ + if else statement
+ + nested if else statement
+
+#### Loop **see sldies and demo code in lecture 5, lecture 6 and assignment 3**
+ + for loop
+  + how to define initial action
+  + how to define loop continuation condition
+  + how to define action after each iteration
+ + while loop
+   + how to define initial action
+   + how to define loop continuation condition
+ + do while loop
+   + how to define initial action
+   + how to define loop continuation condition
+ + The similarities and differences of three types of loop statements
+ + Nested loop statement
