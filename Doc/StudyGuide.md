@@ -1,6 +1,6 @@
 ##Final Exam Study Guide
 
-### Final Exam
+### Final Exam Format
 **All the programs in the fianl exam will be based on demo code in all lectures and assigntment1-4. However, the numbers in the program will be revised. For example, int i=10 -> int i=15**
 + Part 1: Bug Identification and Correction
  + Example 1 - **see question 1 in the midterm exam**
