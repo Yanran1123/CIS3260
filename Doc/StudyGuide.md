@@ -1,4 +1,4 @@
-##Final Exam Study Guide (Incomplete, work-in-progress)
+##Final Exam Study Guide
 
 ### Final Exam Format
 
