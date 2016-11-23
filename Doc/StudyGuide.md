@@ -2,12 +2,11 @@
 
 ### Final Exam Format
 
-+ **All the questions in the fianl exam will be based on lecture slides, demo code, assigntment 1-4, midterm exam and bonus test**.
++ **All questions in the fianl exam will be based on lecture slides, demo code, assigntment 1-4, midterm exam and bonus test**.
 + **Number and text will be revised**. For example, (1) int i=10 -> int i=15; (2) "gsu".length() -> "abcdef".length()"**
 
 + Part 1: Bug Identification and Correction
- + Example 1 - **see question 1 in the midterm exam**
- + Example 2 - **see question 1 in the bonus test**
+ + Examples - **see question 1 in the midterm exam and bonus test**
  + Common programming error **see slides in lecture 7**
   + Syntax Errors
   + Logic Errors 
