@@ -2,7 +2,8 @@
 
 ### Final Exam Format
 
-**All the questions in the fianl exam will be based on the code in all lectures(slides and demo) and assigntment1-4. Number and text in the  code will be revised. For example, (1) int i=10 -> int i=15; (2) "gsu".length() -> "abcdef".length()"**
++ All the questions in the fianl exam will be based on the code in all lectures (**slides and demo**) and **assigntment 1-4**. 
++ Number and text in the  code will be revised. For example, (1) int i=10 -> int i=15; (2) "gsu".length() -> "abcdef".length()"**
 
 + Part 1: Bug Identification and Correction
  + Example 1 - **see question 1 in the midterm exam**
@@ -17,10 +18,10 @@
  
 + Part 3: Complete program
  + Examples - **see question 3 in the midterm exam and bonus test**
- + Studdents should fully understand the underlying logic of the code in all lectures and assignment1-4.
+ + Students should fully understand the underlying logic of the code in all lectures and assignment 1-4.
 
 
-**Below are the knowledge base that will be covered in the final exam.**
+**Below is the knowledge base that will be covered in the final exam.**
 
 #### Data Type
  + Number
@@ -64,7 +65,6 @@
  + nested if else statement
 
 #### Loop 
-**see sldies and demo code in lecture 5, lecture 6 and assignment 3**
  + for loop
   + how to define initial action
   + how to define loop continuation condition
@@ -75,9 +75,32 @@
  + do while loop
    + how to define initial action
    + how to define loop continuation condition
- + The similarities and differences of three types of loop statements
+ + The similarity and difference of three types of loop statements
  + Nested loop statement
 
-work-in-progress more content to be added in the next few weeks.
 #### Method
+ + how	to	define	a	method
+   + method header (modifier, return value type, method name, formal parameters)
+   + method body 
+ + how to invoke a method
+ + how to convert a code block into a method
+ 
 #### Array
+ + 1 dimentional array
+   + create and initiate an array
+   + access array elements
+   + process array elements
+     + sum of all array elements
+     + find the largest element in an array
+ + 2 dimentional array
+   + create and initiate an array
+   + access array elements
+   + process array elements
+     + sum of all array elements
+     + find the largest element in an array
+ + 3 dimentional array
+   + create and initiate an array
+   + access array elements
+   + process array elements
+     + sum of all array elements
+     + find the largest element in an array
