@@ -20,8 +20,7 @@
  + Examples - **see question 3 in the midterm exam and bonus test**
  + Students should fully understand the underlying logic of the code in all lectures and assignment 1-4.
 
-
-**Below is the knowledge base that will be covered in the final exam.**
+### Knowledge Base that Will be Covered in The Final Exam
 
 #### Data Type
  + Number
