@@ -46,7 +46,7 @@ particular appears 6 times
 
 **Please submit the following documents to  the Dropbox in iCollege:**
 + Document 1 includes your source code (project.java) [[A tutorial of how to locate a Java source code]](https://www.dropbox.com/s/422i7tz3zz17ay3/Locate%20a%20Java%20Source%20Code.pdf?dl=0)
-+ Document 2 includes three screenshots of your console:
++ Document 2 includes two screenshots of your console:
   + Task 5
   + Task 10
 + Document 3 (optional): You may also want to submit a Word document that elaborates any challenge you face while finishing the assignment and how you overcome the challenge.
