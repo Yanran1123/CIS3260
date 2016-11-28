@@ -51,7 +51,7 @@
   + indexOf() e.g., "abcdefg".indexOf("x")
   + replaceAll(,) e.g., "abcdefg".replaceAll("b","B")
   + 
-  case() e.g., "ABCVEdfwe".toLowerCase()
+  toLowerCase() e.g., "ABCVEdfwe".toLowerCase()
  + Logic
   + && e.g., while((s>6)&&(d==2))
   + || e.g., if((i>3)||(d<2))
