@@ -17,5 +17,5 @@
 | ~~10.24 1:00pm - 3:00pm~~ | ~~Midterm Exam~~ |    
 | ~~10.31 1:00pm - 3:00pm~~ |  | 
 | ~~11.07 1:00pm - 3:00pm~~ | ~~Assignment 4~~ | 
-| 11.14 1:00pm - 3:00pm | Project | 
-| 11.28 1:00pm - 3:00pm | Project |
+| ~~11.14 1:00pm - 3:00pm~~ | ~~Project~~ | 
+| ~~11.28 1:00pm - 3:00pm~~ | ~~Project~~ |
