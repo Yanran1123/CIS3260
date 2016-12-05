@@ -128,7 +128,7 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
 | 10      | ~~11.07~~ | [Single Dimensional Arrays](Lecture/Lecture10.md)     ||                                        | [Project out](https://github.com/zhitaoyin/CIS3260/blob/master/Doc/project.md). Due 11.20 at 11:55pm |
 | 11      | ~~11.14~~ | [Multidimentionsional Arrays](Lecture/Lecture11.md)   ||                                        |  |
 |         | ~~11.21~~ | **Thanksgiving Break, No Class**  ||                                        |  |
-| 12      | 11.28 | [Objects & Classes and Wrap-up](Lecture/Lecture12.md) ||                                        |  |
+| 12      | ~~11.28~~ | [Objects & Classes and Wrap-up](Lecture/Lecture12.md) ||                                        |  |
 |         | 12.05 | **Final Exam** [Study Guide](https://github.com/zhitaoyin/CIS3260/blob/master/Doc/StudyGuide.md)                    ||                                        |  
 
 
