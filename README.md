@@ -102,7 +102,8 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
 
 
 ### 4. Grading Policy
-
+ + Grade available by December 16, 2016.
+ 
 <img src="Pic/GradePolicy1.PNG" alt="gradepolicy1" style="width: 1px;"/>
 
 <img src="Pic/GradePolicy2.PNG" alt="gradepolicy2" style="width: 1px;"/>
