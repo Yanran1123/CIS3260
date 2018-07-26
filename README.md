@@ -1,4 +1,4 @@
-##CIS 3260 Session 009: Introduction to Programming [Archive of Fall 2016]
+## CIS 3260 Session 009: Introduction to Programming [Archive of Fall 2016]
 
 **This syllabus provides a general guideline for the conduct of this course. However, deviations will be necessary. It is students' responsibility to check the syllabus regularly.**
 
