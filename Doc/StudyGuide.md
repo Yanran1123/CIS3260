@@ -2,8 +2,8 @@
 
 ### Final Exam Format
 
-+ **All questions in the fianl exam will be based on lecture slides, demo code, assigntment 1-4, midterm exam and bonus test**.
-+ **Number and text will be revised**. For example, (1) int i=10 -> int i=15; (2) "gsu".length() -> "abcdef".length()"
+**All questions in the fianl exam will be based on lecture slides, demo code, assigntment 1-4, midterm exam and bonus test**.
+**Number and text will be revised**. For example, (1) int i=10 -> int i=15; (2) "gsu".length() -> "abcdef".length()"
 
 + Part 1: Bug Identification and Correction
   + Examples - **see question 1 in the midterm exam and bonus test**
@@ -43,6 +43,7 @@
   + % e.g., 100%15
   + ++ e.g., ++k and k++
   + -- e.g., --k and k--
+ 
  + Text
   + equals() e.g., "gsu".equals("GSU")
   + length() e.g., "abcdefg".length()
@@ -50,8 +51,8 @@
   + substring() e.g., "abcdefg".substring(1,3)
   + indexOf() e.g., "abcdefg".indexOf("x")
   + replaceAll(,) e.g., "abcdefg".replaceAll("b","B")
-  + 
-  toLowerCase() e.g., "ABCVEdfwe".toLowerCase()
+  + toLowerCase() e.g., "ABCVEdfwe".toLowerCase()
+ 
  + Logic
   + && e.g., while((s>6)&&(d==2))
   + || e.g., if((i>3)||(d<2))
