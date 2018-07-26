@@ -1,6 +1,6 @@
-###J. Mack Robinson College of Business Professionalism Expectations
+### J. Mack Robinson College of Business Professionalism Expectations
 
-####ATTENDANCE
+#### ATTENDANCE
 **As a general matter at GSU, you should show respect everyone in the classroom and their time by following these simple rules:**
 
 + Arrive on time to class and be ready for class to begin.
@@ -12,7 +12,7 @@
 + If you know you are going to miss the first class ahead of time, but be sure to contact the instructor so you are kept on the roster.
 
 
-####TECHNOLOGY
+#### TECHNOLOGY
 **Here are some of the expectations about how you will manage your technology at Robinson:**
 
 + Turn off all electronic devices when you enter the classroom. Use technology only for appropriate purposes.
@@ -20,7 +20,7 @@
 + If you need to have a device turned on due to pending personal or business emergencies then a) tell the instructor ahead of time, and b) only have it on vibrate or other silent notification mode.
 
 
-####BEHAVIOR DURING CLASS
+#### BEHAVIOR DURING CLASS
 **Here are the Robinson expectations:**
 
 + When the session begins, put away all other work and end your conversations.
@@ -35,7 +35,7 @@
 + When you are giving a presentation, whether individually or as a team, appropriate professional dress is required. Yes, it is true that what is appropriate for a banker is different than for an ad agency executive, but there are standards of professionalism that need to be minded if you are to be taken seriously by the audience. Oral presentations are a very common form of business communication. They place particular requirements on both the presenter and the audience. As an audience member you should always give respect to presenters, ask questions and provide critiques professionally.
 
 
-####WORK PRODUCT
+#### WORK PRODUCT
 **Also referred to as “deliverables,” they have that title because you are expected to deliver. This is a very firm rule in the workplace; others need your work to be done on time and in good shape. When your deliverables are late others are impacted, sometimes severely. There is zero tolerance in the workplace for late work, and when work is delivered late you will be held accountable.**
 
 + All assignments must be turned in on time. This is mandatory in life if you want to do well; get in the habit at Robinson and save a lot of grief on the job.
@@ -45,7 +45,7 @@
 
 
 
-####COMMUNICATION WITH INSTRUCTORS
+#### COMMUNICATION WITH INSTRUCTORS
 **Find the appropriate time and place for an interaction with the instructor and then follow the Golden Rule.**
 
 + Do not expect an immediate answer when emailing or texting an instructor. Instructors will endeavor to return your communication within 24 hours. Like everyone else, however, instructor’s e-mails can get buried or otherwise misdirected. After 24 hours a polite follow-up would be appropriate.
