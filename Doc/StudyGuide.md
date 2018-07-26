@@ -23,40 +23,40 @@
 
 #### Data Type
  + Number
-  + byte
-  + short
-  + int
-  + long
-  + float
-  + double
+   + byte
+   + short
+   + int
+   + long
+   + float
+   + double
  + Text
-  + string
+   + string
  + Logic
-  + boolean
+   + boolean
 
 #### Data Operation
  + Number
-  + + e.g., k=k+2
-  + - e.g., k=k-1
-  + * e.g., 3*5
-  + / e.g., 10/3 and 10.0/3
-  + % e.g., 100%15
-  + ++ e.g., ++k and k++
-  + -- e.g., --k and k--
+   + + e.g., k=k+2
+   + - e.g., k=k-1
+   + * e.g., 3*5
+   + / e.g., 10/3 and 10.0/3
+   + % e.g., 100%15
+   + ++ e.g., ++k and k++
+   + -- e.g., --k and k--
  
  + Text
-  + equals() e.g., "gsu".equals("GSU")
-  + length() e.g., "abcdefg".length()
-  + charAt() e.g., "abcdefg".charAt(0)
-  + substring() e.g., "abcdefg".substring(1,3)
-  + indexOf() e.g., "abcdefg".indexOf("x")
-  + replaceAll(,) e.g., "abcdefg".replaceAll("b","B")
-  + toLowerCase() e.g., "ABCVEdfwe".toLowerCase()
+   + equals() e.g., "gsu".equals("GSU")
+   + length() e.g., "abcdefg".length()
+   + charAt() e.g., "abcdefg".charAt(0)
+   + substring() e.g., "abcdefg".substring(1,3)
+   + indexOf() e.g., "abcdefg".indexOf("x")
+   + replaceAll(,) e.g., "abcdefg".replaceAll("b","B")
+   + toLowerCase() e.g., "ABCVEdfwe".toLowerCase()
  
  + Logic
-  + && e.g., while((s>6)&&(d==2))
-  + || e.g., if((i>3)||(d<2))
-  + ! e.g., if(!(i>3))
+   + && e.g., while((s>6)&&(d==2))
+   + || e.g., if((i>3)||(d<2))
+   + ! e.g., if(!(i>3))
  
 #### Selection
  + if statement
