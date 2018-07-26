@@ -111,25 +111,25 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
 
 ### 5. Schedule
 
- + **~~October 11 is the midpoint of the Fall 2016 semester and the last day to withdraw the course.~~**
+ + **October 11 is the midpoint of the Fall 2016 semester and the last day to withdraw the course.**
 
 | Lecture | Date  | Lecture Topic                 |See The Forest Beyond The Trees|  Assignment     | Project |
 |:-------:|:-----:| :----------------------------:|:-:|:--------------------------------------:|:-------:|
-| 1       | ~~08.22~~ | [Introduction](Lecture/Lecture1.md)                  || [Assignment 1 out](Assignment/Assignment1.md). Due 08.27 at 11:55pm |  |
-| 2       | ~~08.29~~ | [Elementary Programming](Lecture/Lecture2.md)        |[Big Data](Forrest/Big%20Data.md)|  |  |
-|         | ~~09.05~~ | **Labor Day, No Class**       ||                                        |  |
-| 3       | ~~09.12~~ | [Selections](Lecture/Lecture3.md)                    |[Natural Language Processing](https://github.com/zhitaoyin/CIS3260/blob/master/Forrest/NLP.md)| [Assignment 2 out](Assignment/Assignment2.md). Due 09.17 at 11:55pm |  |
-| 4       | ~~09.19~~ | [Selections](Lecture/Lecture4.md)                    || |  |
-| 5       | ~~09.26~~ | [Loops](Lecture/Lecture5.md)                         || [Assignment 3 out](Assignment/Assignment3.md). Due 10.01 at 11:55pm |  |
-| 6       | ~~10.03~~ | [Loops & Midterm Review](Lecture/Lecture6.md)                         ||  |  |
-|         | ~~10.10~~ | **Midterm Exam**            ||                                        |  |
-| 7       | ~~10.17~~ | [Midterm Exam Review](Lecture/Lecture7.md)                      ||  |  |
-| 8       | ~~10.24~~ | [Bonus Test & Methods](Lecture/Lecture8.md)                       ||                                        |   |
-| 9       | ~~10.31~~ |[ Methods & Single Dimensional Arrays](Lecture/Lecture9.md)     || [Assignment 4 out](Assignment/Assignment4.md). Due 11.05 at 11:55pm |  |
-| 10      | ~~11.07~~ | [Single Dimensional Arrays](Lecture/Lecture10.md)     ||                                        | [Project out](https://github.com/zhitaoyin/CIS3260/blob/master/Doc/project.md). Due 11.20 at 11:55pm |
-| 11      | ~~11.14~~ | [Multidimentionsional Arrays](Lecture/Lecture11.md)   ||                                        |  |
-|         | ~~11.21~~ | **Thanksgiving Break, No Class**  ||                                        |  |
-| 12      | ~~11.28~~ | [Objects & Classes and Wrap-up](Lecture/Lecture12.md) ||                                        |  |
+| 1       | 08.22 | [Introduction](Lecture/Lecture1.md)                  || [Assignment 1 out](Assignment/Assignment1.md). Due 08.27 at 11:55pm |  |
+| 2       | 08.29 | [Elementary Programming](Lecture/Lecture2.md)        |[Big Data](Forrest/Big%20Data.md)|  |  |
+|         | 09.05 | **Labor Day, No Class**       ||                                        |  |
+| 3       | 09.12 | [Selections](Lecture/Lecture3.md)                    |[Natural Language Processing](https://github.com/zhitaoyin/CIS3260/blob/master/Forrest/NLP.md)| [Assignment 2 out](Assignment/Assignment2.md). Due 09.17 at 11:55pm |  |
+| 4       | 09.19 | [Selections](Lecture/Lecture4.md)                    || |  |
+| 5       | 09.26 | [Loops](Lecture/Lecture5.md)                         || [Assignment 3 out](Assignment/Assignment3.md). Due 10.01 at 11:55pm |  |
+| 6       | 10.03 | [Loops & Midterm Review](Lecture/Lecture6.md)                         ||  |  |
+|         | 10.10 | **Midterm Exam**            ||                                        |  |
+| 7       | 10.17 | [Midterm Exam Review](Lecture/Lecture7.md)                      ||  |  |
+| 8       | 10.24 | [Bonus Test & Methods](Lecture/Lecture8.md)                       ||                                        |   |
+| 9       | 10.31 |[ Methods & Single Dimensional Arrays](Lecture/Lecture9.md)     || [Assignment 4 out](Assignment/Assignment4.md). Due 11.05 at 11:55pm |  |
+| 10      | 11.07 | [Single Dimensional Arrays](Lecture/Lecture10.md)     ||                                        | [Project out](https://github.com/zhitaoyin/CIS3260/blob/master/Doc/project.md). Due 11.20 at 11:55pm |
+| 11      | 11.14 | [Multidimentionsional Arrays](Lecture/Lecture11.md)   ||                                        |  |
+|         | 11.21 | **Thanksgiving Break, No Class**  ||                                        |  |
+| 12      | 11.28 | [Objects & Classes and Wrap-up](Lecture/Lecture12.md) ||                                        |  |
 |         | 12.05 | **Final Exam** [Study Guide](https://github.com/zhitaoyin/CIS3260/blob/master/Doc/StudyGuide.md)                    ||                                        |  
 
 
