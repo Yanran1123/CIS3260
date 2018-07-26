@@ -1,6 +1,6 @@
 #### Natural Language Processing
 
- + [What is Natural Language Processing? by Professor Dan Jurafsky from Stanford University](https://www.youtube.com/watch?v=nfoudtpBV68)
+ + [What is Natural Language Processing? by Professor Dan Jurafsky from Stanford University](https://www.youtube.com/watch?v=CXpZnZM63Gg&list=PL8FFE3F391203C98C)
  + [Natural Language Processing' Definition in Wikipedia](https://en.wikipedia.org/wiki/Natural_language_processing)
  + [Unstructured Data's Definition in Wikipedia](https://en.wikipedia.org/wiki/Unstructured_data)
 
