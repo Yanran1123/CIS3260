@@ -13,7 +13,7 @@
  + Regular Expression
 
 **Regular Expression Resources**
-+ [What is Regular Expression by Professor Dan Jurafsky from Stanford](https://www.youtube.com/watch?v=hwDhO1GLb_4)
++ [What is Regular Expression by Professor Dan Jurafsky from Stanford](https://www.youtube.com/watch?v=CXpZnZM63Gg&list=PL8FFE3F391203C98C)
 + [Regular Expression Cheat Sheet](http://www.rexegg.com/regex-quickstart.html)
 + [Regular Expression Visualization Application](https://regexper.com/)
 + [Regular Expression Tester](http://java-regex-tester.appspot.com/)
