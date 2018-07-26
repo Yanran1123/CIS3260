@@ -1,4 +1,4 @@
-####Project [**100 points**] **Due on 11.20 at 11:55pm**
+#### Project [**100 points**] **Due on 11.20 at 11:55pm**
 
 **Instructor's Comments:** 
 
@@ -7,7 +7,7 @@
   + sentiment analysis
 
 Now, let us break the problem into 10 parts.
-+ Task 1 [**5 points**]: Download and read [moviereview.txt] (https://www.dropbox.com/s/41fo144dh7jhyt1/moviereview.txt?dl=0) into your computer.
++ Task 1 [**5 points**]: Download and read [moviereview.txt](https://www.dropbox.com/s/41fo144dh7jhyt1/moviereview.txt?dl=0) into your computer.
 + Task 2 [**5 points**]: Extract all words in moviereview.txt.
 + Task 3 [**5 points**]: Lowercase all words.
 + Task 4 [**15 points**]: Calculate word frequence (i.e., how many times each word apprears in moviewreview.txt)
@@ -22,7 +22,7 @@ is appear 33 times
 are appears 30 times
 ```
 
-+ Task 6 [**5 points**]: Download and read [positive.txt] (https://www.dropbox.com/s/e0cn3jbvhrlv7lk/positive.txt?dl=0) into your computer.
++ Task 6 [**5 points**]: Download and read [positive.txt](https://www.dropbox.com/s/e0cn3jbvhrlv7lk/positive.txt?dl=0) into your computer.
 + Task 7 [**5 points**]: Extract all words in positive.txt.
 + Task 8 [**5 points**]: Lowercase all words.
 + Task 9 [**15 points**]: Calculate word frequence (i.e., how many times each word in positive.txt appears in moviereview.txt)
