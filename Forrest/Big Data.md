@@ -1,6 +1,6 @@
 #### Big Data
 
- + [The Human Face of Big Data](https://www.youtube.com/watch?v=5PiwspCstYM)
+ + [The Human Face of Big Data](https://www.youtube.com/watch?v=66_nkd4KbBk)
  + [Big Data in Wikipedia](https://en.wikipedia.org/wiki/Big_data)
 
 **The materials above just give you an overview of big data. You may want to take a look at other online resources (e.g., resaerch reports from consulting firms, research papers, new reports etc.) to discuss the questions below with your classmates.**
