@@ -1,6 +1,6 @@
 ## CIS 3260 Session 009: Introduction to Programming 
 
-**This is an archive of CIS 3260 in Fall 2016. Links and format were updated based on new Github Markdown language in 2018.**
+**This is an archive of CIS 3260 in Fall 2016. Links werer udpated. Format were updated based on new Github Markdown language in 2018.**
 
 **This syllabus provides a general guideline for the conduct of this course. However, deviations will be necessary. It is students' responsibility to check the syllabus regularly.**
 
