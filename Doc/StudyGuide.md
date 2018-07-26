@@ -1,4 +1,4 @@
-##Final Exam Study Guide
+## Final Exam Study Guide
 
 ### Final Exam Format
 
@@ -6,18 +6,18 @@
 + **Number and text will be revised**. For example, (1) int i=10 -> int i=15; (2) "gsu".length() -> "abcdef".length()"
 
 + Part 1: Bug Identification and Correction
- + Examples - **see question 1 in the midterm exam and bonus test**
- + Common programming error **see slides in lecture 7**
+  + Examples - **see question 1 in the midterm exam and bonus test**
+  + Common programming error **see slides in lecture 7**
   + Syntax Errors
   + Logic Errors 
 
 + Part 2: Program Output
- + Examples - **see question 2 in the midterm exam and bonus test**
- + Students are highly recommended to use a table to organize the calculation process. **see solutions of the midterm exam and bonus test as examples.**
+  + Examples - **see question 2 in the midterm exam and bonus test**
+  + Students are highly recommended to use a table to organize the calculation process. **see solutions of the midterm exam and bonus test as examples.**
  
 + Part 3: Complete program
- + Examples - **see question 3 in the midterm exam and bonus test**
- + Students should fully understand the underlying logic of the code in all lectures and assignment 1-4.
+  + Examples - **see question 3 in the midterm exam and bonus test**
+  + Students should fully understand the underlying logic of the code in all lectures and assignment 1-4.
 
 ### Knowledge Base that Will be Covered in The Final Exam
 
