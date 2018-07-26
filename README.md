@@ -27,27 +27,27 @@
  
  + **Lecture**: 
  
-  + Each lecture will introduce the ***core concepts*** in one topic and may include a demonstration of how to ***apply*** the concepts to create, debug, execute, and test well-designed and readable applications in Java.
-  + As the lecture is the main opportunity to learn, each student is expected to attend each lecture and actively interact with the instructor and classmates during class discussion. Thus, ***attendance and interaction will be graded*** (see **4. Grading Policy** for details).
-  + ***Lecture Slides*** will be available after each lecture on this website.
-  + No audio recording, video recording, or photography is allowed without instructor's permission.
+   + Each lecture will introduce the ***core concepts*** in one topic and may include a demonstration of how to ***apply*** the concepts to create, debug, execute, and test well-designed and readable applications in Java.
+   + As the lecture is the main opportunity to learn, each student is expected to attend each lecture and actively interact with the instructor and classmates during class discussion. Thus, ***attendance and interaction will be graded*** (see **4. Grading Policy** for details).
+   + ***Lecture Slides*** will be available after each lecture on this website.
+   + No audio recording, video recording, or photography is allowed without instructor's permission.
  + **Office Hour**: 
-  + Office hour visit is ***highly recommended*** for the students who want to ***discuss concepts*** as these thoughts are more difficult to grasp and require more information, discussion and time. Students may want to communicate with the instructor via email to ask questions regarding course logistics. 
-  + [Office hour schedule](Doc/Office%20Hour%20Schedule.md) offers a general guideline for each office hour session. Students are ***welcome*** to ask other questions regarding the content of this course as well.
-  + No audio recording, video recording, or photography is allowed without instructor's permission.
+   + Office hour visit is ***highly recommended*** for the students who want to ***discuss concepts*** as these thoughts are more difficult to grasp and require more information, discussion and time. Students may want to communicate with the instructor via email to ask questions regarding course logistics. 
+   + [Office hour schedule](Doc/Office%20Hour%20Schedule.md) offers a general guideline for each office hour session. Students are ***welcome*** to ask other questions regarding the content of this course as well.
+   + No audio recording, video recording, or photography is allowed without instructor's permission.
  + **Textbook**:
-  +  Y. Daniel Liang，Introduction to Java Programming, Comprehensive Version, 10th Edition ([Hardcopy link on  Amazon.com](https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312/ref=sr_1_2?ie=UTF8&qid=1471567611&sr=8-2&keywords=Y.+Daniel+Liang%EF%BC%8CIntroduction+to+Java+programming))
-  + Most content of the lecture will be based on the textbook. Thus, it is a good ***reference*** for students to ***prepare*** and ***review*** the class.
+   +  Y. Daniel Liang，Introduction to Java Programming, Comprehensive Version, 10th Edition ([Hardcopy link on  Amazon.com](https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312/ref=sr_1_2?ie=UTF8&qid=1471567611&sr=8-2&keywords=Y.+Daniel+Liang%EF%BC%8CIntroduction+to+Java+programming))
+   + Most content of the lecture will be based on the textbook. Thus, it is a good ***reference*** for students to ***prepare*** and ***review*** the class.
  + **See The Forest Beyond The Trees**:
-  + This module is designed to empower students to critically think about the big picture - the impact of programming.
-  + Starting from Lecture 2, the instructor will allocate 10 mins to briefly introduce the most up-to-date technologies that are created by programming or the phenomena that are shaped by those technologies in each lecture.
-  + The students are expected to (1) watch videos and/or read articles after class, and (2) discuss the questions assigned by the instructor with classmates after class.
-  + This module will be tested in the midterm and final exam.
+   + This module is designed to empower students to critically think about the big picture - the impact of programming.
+   + Starting from Lecture 2, the instructor will allocate 10 mins to briefly introduce the most up-to-date technologies that are created by programming or the phenomena that are shaped by those technologies in each lecture.
+   + The students are expected to (1) watch videos and/or read articles after class, and (2) discuss the questions assigned by the instructor with classmates after class.
+   + This module will be tested in the midterm and final exam.
  + **Online Learning Resources**: (additional ways for students to learn programming)
-  + [edX](https://www.edx.org/) and [Coursera](https://www.coursera.org/), offer free online courses from the world's best universities including MIT, Harvard, Berkeley, UT and others. *(Type keyword "java" to search free courses.)*
-  + [Stack Overflow](http://stackoverflow.com/), an online community to ask and answer programming questions.
-  + [Youtube](https://www.youtube.com), a video platform. *(Type keywords to search video tutorials. For example, how to install Java and set up [Eclipse](https://www.eclipse.org/downloads/eclipse-packages/) for [Java](https://java.com/en/) on your computer.)*
-  + [Google](https://www.google.com/), a search engine.
+   + [edX](https://www.edx.org/) and [Coursera](https://www.coursera.org/), offer free online courses from the world's best universities including MIT, Harvard, Berkeley, UT and others. *(Type keyword "java" to search free courses.)*
+   + [Stack Overflow](http://stackoverflow.com/), an online community to ask and answer programming questions.
+   + [Youtube](https://www.youtube.com), a video platform. *(Type keywords to search video tutorials. For example, how to install Java and set up [Eclipse](https://www.eclipse.org/downloads/eclipse-packages/) for [Java](https://java.com/en/) on your computer.)*
+   + [Google](https://www.google.com/), a search engine.
 
  
 **Practice**
@@ -56,30 +56,30 @@ You already know how Microsoft was founded. Bill Gates and Paul Allen dropped ou
 
  + **Lab Session**: 
  
-  + Lab session is ***highly recommended*** as it provides opportunities to ***digest and practice*** what the instructor teach in the lecture.
-  + Time: Wednesday 2:30 - 4:00 PM and Friday 1:00 - 2:30 PM
-  + Location: Room 100-S, J. Mack Robinson College of Business, [Map](Pic/ClassroomLocation.PNG)
+   + Lab session is ***highly recommended*** as it provides opportunities to ***digest and practice*** what the instructor teach in the lecture.
+   + Time: Wednesday 2:30 - 4:00 PM and Friday 1:00 - 2:30 PM
+   + Location: Room 100-S, J. Mack Robinson College of Business, [Map](Pic/ClassroomLocation.PNG)
  
  + **Assignment**:
  
-  + The assignment is designed to (1) reinforce students' understanding of the key concepts of programming, and (2) develop students' capabilities to correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java. 
-  + All assignments will be posted on this website (see **5. Schedule** for details).
-  + Each student is expected to complete and submit his or her assignments in the allocated time (see **5. Schedule** for details). All assignments will be graded (see **4. Grading Policy** for details).
-  + ***No late submission of an assignment will be accepted. An assignment that is past the due date will be given zero.***
-  + All files must be submitted through the corresponding assignment dropbox in [iCollege](http://icollege.gsu.edu), see [the instruction of how to submit a file to iCollege](Doc/iCollegeInstruction.md). 
-  + ***Submission through email is not accepted***. 
-  + Make sure to submit all required files specified in the assignment. It is each student's responsibility to check the completeness of the files after the submission. ***An assignment with missing files will be graded with 50% penalty.***
-  + Discussion of assignment solutions is highly recommended, but each student must turn in his or her work. ***Plagiarism or duplicate  assignments will be given zero, a point deduction equivalent to one final grade level (i.e. from a B- to a C-), and a charge of academic dishonesty.  Both the student copying the assignment and the student supplying the copy will be penalized equally.***
+   + The assignment is designed to (1) reinforce students' understanding of the key concepts of programming, and (2) develop students' capabilities to correctly apply these concepts to create, debug, execute, and test well-designed and readable applications in Java. 
+   + All assignments will be posted on this website (see **5. Schedule** for details).
+   + Each student is expected to complete and submit his or her assignments in the allocated time (see **5. Schedule** for details). All assignments will be graded (see **4. Grading Policy** for details).
+   + ***No late submission of an assignment will be accepted. An assignment that is past the due date will be given zero.***
+   + All files must be submitted through the corresponding assignment dropbox in [iCollege](http://icollege.gsu.edu), see [the instruction of how to submit a file to iCollege](Doc/iCollegeInstruction.md). 
+   + ***Submission through email is not accepted***. 
+   + Make sure to submit all required files specified in the assignment. It is each student's responsibility to check the completeness of the files after the submission. ***An assignment with missing files will be graded with 50% penalty.***
+   + Discussion of assignment solutions is highly recommended, but each student must turn in his or her work. ***Plagiarism or duplicate  assignments will be given zero, a point deduction equivalent to one final grade level (i.e. from a B- to a C-), and a charge of academic dishonesty.  Both the student copying the assignment and the student supplying the copy will be penalized equally.***
 
  + **Project**:
  
-  + The project is designed to give students' hands-on experience to creatively use programming thinking to identify a problem, break it into pieces, and write code to solve it. 
-  + Each student is expected to complete and submit his or her project in the allocated time (see **5. Schedule** for details).
-  + ***No late submission of a module will be accepted. A module that is past the due date will be given zero.***
-  + All files must be submitted through the corresponding project dropbox in [iCollege](http://icollege.gsu.edu), see [the instruction of how to submit a file to iCollege](Doc/iCollegeInstruction.md). 
-  + ***Submission through email is not accepted***. 
-  + Make sure to submit all required files specified in the project module. It is each student's responsibility to check the completeness of the files after the submission. ***A module with missing files will be graded with 50% penalty.***
-  + Discussion of project solutions is highly recommended, but each student must turn in his or her work. ***Plagiarism or duplicate  assignments will be given zero, a point deduction equivalent to one final grade level (i.e. from a B- to a C-), and a charge of academic dishonesty.  Both the student copying the assignment and the student supplying the copy will be penalized equally.***
+   + The project is designed to give students' hands-on experience to creatively use programming thinking to identify a problem, break it into pieces, and write code to solve it. 
+   + Each student is expected to complete and submit his or her project in the allocated time (see **5. Schedule** for details).
+   + ***No late submission of a module will be accepted. A module that is past the due date will be given zero.***
+   + All files must be submitted through the corresponding project dropbox in [iCollege](http://icollege.gsu.edu), see [the instruction of how to submit a file to iCollege](Doc/iCollegeInstruction.md). 
+   + ***Submission through email is not accepted***. 
+   + Make sure to submit all required files specified in the project module. It is each student's responsibility to check the completeness of the files after the submission. ***A module with missing files will be graded with 50% penalty.***
+   + Discussion of project solutions is highly recommended, but each student must turn in his or her work. ***Plagiarism or duplicate  assignments will be given zero, a point deduction equivalent to one final grade level (i.e. from a B- to a C-), and a charge of academic dishonesty.  Both the student copying the assignment and the student supplying the copy will be penalized equally.***
 
 
 **Test**
